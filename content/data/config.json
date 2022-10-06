@@ -30,7 +30,7 @@
             {
                 "type": "Button",
                 "label": "Contact Us",
-                "altText": "",
+                "altText": "Contact Us",
                 "url": "/contact-us",
                 "showIcon": false,
                 "icon": "arrowRight",
