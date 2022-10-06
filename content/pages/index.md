@@ -5,8 +5,9 @@ sections:
   - type: QuoteSection
     elementId: ''
     colors: colors-c
-    quote: |
-      Camelot Estate
+    quote: |+
+      # Camelot Estate
+
     name: Johnna Doe
     title: Product Marketing Manager at Acme
     backgroundImage:
