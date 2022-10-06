@@ -81,7 +81,7 @@ sections:
         justifyContent: center
         flexDirection: row-reverse
       title:
-        textAlign: left
+        textAlign: right
       subtitle:
         textAlign: left
       text:
