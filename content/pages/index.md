@@ -3,7 +3,7 @@ title: Home
 layout: PageLayout
 sections:
   - type: QuoteSection
-    elementId: ''
+    elementId: home_banner_title
     colors: colors-c
     quote: |+
       # **Camelot Estate**
