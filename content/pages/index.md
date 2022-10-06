@@ -52,6 +52,7 @@ sections:
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
+        altText: Read More
       - type: Link
         label: Learn More
         url: /
