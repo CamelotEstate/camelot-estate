@@ -11,7 +11,7 @@ sections:
     name: Secure Estate Living
     backgroundImage:
       url: /images/entrance.jpg
-      altText: Product Marketing Manager Quote
+      altText: Banner Image
       styles:
         self:
           opacity: 70
