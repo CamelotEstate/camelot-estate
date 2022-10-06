@@ -27,7 +27,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Gallery",
                 "altText": "",
                 "url": "/gallery",
                 "showIcon": false,
