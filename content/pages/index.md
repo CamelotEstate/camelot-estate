@@ -89,7 +89,7 @@ sections:
         justifyContent: flex-start
     type: FeatureHighlightSection
     title: Camelot Estate
-  - colors: colors-a
+  - colors: colors-e
     elementId: ''
     title: Remote doesn’t mean alone. Here are so great features
     subtitle: >-
