@@ -49,7 +49,7 @@ sections:
     actions:
       - type: Button
         label: Read More About Camelot Estate
-        url: 'https://www.stackbit.com/'
+        url: /the-estate
         style: primary
         elementId: hero-main-button
         altText: Read More
