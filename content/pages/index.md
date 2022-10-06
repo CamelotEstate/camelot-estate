@@ -34,7 +34,7 @@ sections:
         textAlign: right
       name:
         fontWeight: 400
-        textAlign: left
+        textAlign: right
       title:
         fontWeight: 400
         textAlign: left
