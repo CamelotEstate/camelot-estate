@@ -22,7 +22,7 @@
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "elementId": "nav-bar-"
+                "elementId": "nav-bar-link"
             }
         ],
         "secondaryLinks": [],
