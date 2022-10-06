@@ -43,18 +43,7 @@
                 "elementId": ""
             }
         ],
-        "secondaryLinks": [
-            {
-                "type": "Link",
-                "label": "About",
-                "altText": "TEST",
-                "url": "/link",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            }
-        ],
+        "secondaryLinks": [],
         "styles": {
             "self": {
                 "width": "narrow",
