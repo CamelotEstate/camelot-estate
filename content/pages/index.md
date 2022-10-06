@@ -16,7 +16,7 @@ sections:
         self:
           opacity: 70
       caption: Camelot Estate Front Entrance
-      elementId: Banner
+      elementId: home_banner
     styles:
       self:
         height: auto
