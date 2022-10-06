@@ -54,7 +54,6 @@ sections:
         elementId: hero-main-button
         altText: Read More
       - type: Link
-        label: Learn More
         url: /
         showIcon: true
         icon: arrowRight
