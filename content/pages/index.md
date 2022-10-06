@@ -8,7 +8,7 @@ sections:
     quote: |+
       # Camelot Estate
 
-    name: Johnna Doe
+    name: Secure Estate Living
     title: Product Marketing Manager at Acme
     backgroundImage:
       url: /images/bg.jpg
