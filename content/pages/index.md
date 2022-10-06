@@ -88,7 +88,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
-    subtitle: Welcome to Camelot Estate
     title: Camelot Estate
   - type: HeroSection
     elementId: homepage-hero-1
