@@ -33,7 +33,7 @@ sections:
           - pr-4
         justifyContent: center
       quote:
-        textAlign: right
+        textAlign: center
       name:
         fontWeight: 400
         textAlign: right
