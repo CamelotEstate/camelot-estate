@@ -95,7 +95,7 @@ sections:
       - type: ImageBlock
         url: /images/apple.svg
         altText: Apple
-        caption: Apple
+        caption: Appledccdwcvwd
       - type: ImageBlock
         url: /images/google-play.svg
         altText: Google Play
