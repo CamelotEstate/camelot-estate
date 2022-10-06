@@ -90,7 +90,6 @@ sections:
     type: FeatureHighlightSection
     title: Camelot Estate
   - colors: colors-h
-    subtitle: Our Partners
     elementId: ''
     images:
       - type: ImageBlock
