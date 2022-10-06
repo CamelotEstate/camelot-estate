@@ -55,7 +55,7 @@ sections:
         altText: Read More
       - type: Link
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
     media:
