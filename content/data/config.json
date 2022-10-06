@@ -159,7 +159,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Home",
                 "altText": "",
                 "url": "/home",
                 "showIcon": false,
