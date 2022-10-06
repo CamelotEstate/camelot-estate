@@ -149,7 +149,7 @@ sections:
     imageSizePx: 240
     type: MediaGallerySection
     title: Our Partners
-  - colors: colors-a
+  - colors: colors-e
     elementId: ''
     title: Remote doesn’t mean alone. Here are so great features
     subtitle: >-
