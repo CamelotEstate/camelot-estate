@@ -15,6 +15,7 @@ sections:
       styles:
         self:
           opacity: 70
+      caption: Camelot Estate Front Entrance
     styles:
       self:
         height: auto
