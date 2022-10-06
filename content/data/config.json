@@ -24,6 +24,16 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": "nav-bar-link"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/gallery",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "secondaryLinks": [
