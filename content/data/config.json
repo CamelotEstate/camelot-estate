@@ -87,7 +87,7 @@
             "type": "ImageBlock",
             "url": "/images/logo.png"
         },
-        "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
+        "copyrightText": "![](/images/logo.png)\n\nPowered by [Stackbit](https://www.stackbit.com/)\n",
         "primaryLinks": [],
         "socialLinks": [],
         "legalLinks": [
