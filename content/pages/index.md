@@ -10,7 +10,7 @@ sections:
 
     name: Secure Estate Living
     backgroundImage:
-      url: /images/overview.jpg
+      url: /images/entrance.jpg
       altText: Product Marketing Manager Quote
       styles:
         self:
