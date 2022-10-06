@@ -17,7 +17,7 @@
             {
                 "type": "Link",
                 "label": "Learn more",
-                "altText": "",
+                "altText": "The",
                 "url": "/the-estate",
                 "showIcon": false,
                 "icon": "arrowRight",
