@@ -89,15 +89,7 @@
         },
         "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
         "primaryLinks": [],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "Facebook",
-                "label": "Facebook",
-                "url": "/",
-                "icon": "facebook"
-            }
-        ],
+        "socialLinks": [],
         "legalLinks": [
             {
                 "type": "Link",
