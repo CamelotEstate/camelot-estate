@@ -75,18 +75,6 @@
     },
     "footer": {
         "colors": "colors-h",
-        "logo": {
-            "altText": "Camelot Estate",
-            "caption": "Camelot Estate",
-            "elementId": "footer_logo",
-            "styles": {
-                "self": {
-                    "opacity": 100
-                }
-            },
-            "type": "ImageBlock",
-            "url": "/images/logo small.png"
-        },
         "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)\n",
         "primaryLinks": [
             {
