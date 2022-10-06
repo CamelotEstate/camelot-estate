@@ -31,6 +31,16 @@
                 "label": "Blog",
                 "altText": "Blog",
                 "url": "/blog"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/TEST",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "secondaryLinks": [
