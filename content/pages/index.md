@@ -46,7 +46,7 @@ sections:
       access controlled security estate.
   - elementId: ''
     colors: colors-a
-    title: And a strong value proposition
+    title: Welcome to Camelot Estate
     text: >
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together
