@@ -126,6 +126,7 @@ sections:
           - pr-4
         justifyContent: center
         borderWidth: 1
+        borderColor: border-primary
       title:
         textAlign: center
       subtitle:
