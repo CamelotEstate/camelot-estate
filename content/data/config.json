@@ -48,7 +48,7 @@
         "logo": {
             "altText": "Camelot Estate",
             "caption": "Camelot Estate",
-            "elementId": "",
+            "elementId": "logo",
             "styles": {
                 "self": {
                     "opacity": 100
