@@ -84,7 +84,8 @@
                     "opacity": 100
                 }
             },
-            "type": "ImageBlock"
+            "type": "ImageBlock",
+            "url": "/images/logo small.png"
         },
         "copyrightText": "![](/images/logo%20small-eea0471f.png)\n\nPowered by [Stackbit](https://www.stackbit.com/)\n",
         "primaryLinks": [],
