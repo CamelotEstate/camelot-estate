@@ -9,7 +9,6 @@ sections:
       # Camelot Estate
 
     name: Secure Estate Living
-    title: Product Marketing Manager at Acme
     backgroundImage:
       url: /images/bg.jpg
       altText: Product Marketing Manager Quote
