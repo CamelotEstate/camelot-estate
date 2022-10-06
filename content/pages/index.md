@@ -114,7 +114,7 @@ sections:
           self:
             textAlign: left
             borderColor: border-dark
-            borderWidth: 1
+            borderWidth: 3
             borderStyle: solid
             padding:
               - pt-4
