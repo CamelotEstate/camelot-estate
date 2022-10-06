@@ -13,16 +13,6 @@
                 "label": "Home",
                 "url": "/",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "A",
-                "altText": "",
-                "url": "/TEST",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
             }
         ],
         "secondaryLinks": [],
