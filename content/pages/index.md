@@ -89,13 +89,6 @@ sections:
         justifyContent: flex-start
     type: FeatureHighlightSection
     subtitle: Welcome to Camelot Estate
-    badge:
-      type: Badge
-      label: This is the badgevjvjgvjgv
-      elementId: ''
-      styles:
-        self:
-          textAlign: left
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
