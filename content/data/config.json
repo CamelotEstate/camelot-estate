@@ -13,6 +13,16 @@
                 "label": "Home",
                 "url": "/",
                 "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/the-estate",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "secondaryLinks": [],
