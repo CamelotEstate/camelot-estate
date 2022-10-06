@@ -92,7 +92,7 @@ sections:
   - type: TextSection
     elementId: ''
     colors: colors-a
-    title: DIRECTIONS
+    title: Directions
     subtitle: ''
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
