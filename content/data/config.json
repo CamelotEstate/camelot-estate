@@ -28,7 +28,7 @@
             {
                 "type": "Link",
                 "label": "Gallery",
-                "altText": "",
+                "altText": "Gallery",
                 "url": "/gallery",
                 "showIcon": false,
                 "icon": "arrowRight",
