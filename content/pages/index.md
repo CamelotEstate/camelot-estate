@@ -93,7 +93,6 @@ sections:
     elementId: ''
     colors: colors-a
     title: Directions
-    subtitle: test text
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
