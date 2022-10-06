@@ -11,7 +11,7 @@ sections:
     name: Secure Estate Living
     backgroundImage:
       url: /images/entrance.jpg
-      altText: Camelot Estate Front Entrance Image
+      altText: Camelot Estate Front Entrance
       styles:
         self:
           opacity: 70
