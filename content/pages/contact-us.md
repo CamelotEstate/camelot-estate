@@ -35,7 +35,7 @@ sections:
       text:
         textAlign: left
   - type: ContactSection
-    elementId: ''
+    elementId: contact-us-form
     colors: colors-a
     backgroundSize: full
     title: Contact us
