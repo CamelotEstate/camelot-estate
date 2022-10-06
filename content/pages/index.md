@@ -131,5 +131,5 @@ sections:
         textAlign: center
       text:
         textAlign: center
-    subtitle: test text
+    subtitle: test tex
 ---
