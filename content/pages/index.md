@@ -45,7 +45,6 @@ sections:
       access controlled security estate.
   - elementId: ''
     colors: colors-a
-    title: Welcome to Camelot Estate
     text: "Camelot Estate is your opportunity to own a home. Located in the northern suburb of Kraaifontein, in Cape Town, the estate has 108 homes, with several\_design options, all within a 24 hour access controlled security estate.\n"
     actions:
       - type: Button
