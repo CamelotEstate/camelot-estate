@@ -6,7 +6,7 @@ sections:
     elementId: ''
     colors: colors-c
     quote: |+
-      # Camelot Estate
+      # **Camelot Estate**
 
     name: Secure Estate Living
     backgroundImage:
