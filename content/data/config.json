@@ -28,12 +28,6 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "altText": "Blog",
-                "url": "/blog"
-            },
-            {
-                "type": "Link",
                 "label": "Learn more",
                 "altText": "",
                 "url": "/TEST",
