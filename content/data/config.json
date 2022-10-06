@@ -37,7 +37,7 @@
             {
                 "type": "Link",
                 "label": "Learn more",
-                "altText": "",
+                "altText": "TEST",
                 "url": "/link",
                 "showIcon": false,
                 "icon": "arrowRight",
