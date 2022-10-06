@@ -90,7 +90,7 @@ sections:
     type: FeatureHighlightSection
     title: Camelot Estate
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundSize: inset
     title: Where did everyone go?
     text: >
