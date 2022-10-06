@@ -39,7 +39,7 @@ sections:
         textAlign: right
       title:
         fontWeight: 400
-        textAlign: right
+        textAlign: center
     title: >-
       Located in the northern suburb of Kraaifontein, in Cape Town, the estate
       has 108 homes, with several design options, all within a 24 hour access
