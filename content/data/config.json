@@ -88,7 +88,18 @@
             "url": "/images/logo small.png"
         },
         "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)\n",
-        "primaryLinks": [],
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/home",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            }
+        ],
         "socialLinks": [],
         "legalLinks": [
             {
