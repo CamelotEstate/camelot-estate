@@ -48,7 +48,7 @@ sections:
     text: "Camelot Estate is your opportunity to own a home. \n\nLocated in the northern suburb of Kraaifontein, in Cape Town, the estate has 108 homes, with several\_design options, all within a 24 hour access controlled security estate.\n"
     actions:
       - type: Button
-        label: Get Started
+        label: Read More
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
