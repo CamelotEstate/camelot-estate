@@ -41,9 +41,9 @@ sections:
         fontWeight: 400
         textAlign: right
     title: >-
-      Located in the northern suburb of Kraaifontein, in Cape Town, the estate
-      has 108 homes, with several design options, all within a 24 hour access
-      controlled security estate.
+      Located in the northern suburb of Kraaifontein, in Cape Town, Camelot
+      Estate has 108 homes, with several design options, all within a 24 hour
+      access controlled security estate.
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
