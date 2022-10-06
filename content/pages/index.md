@@ -19,7 +19,7 @@ sections:
       elementId: home_banner
     styles:
       self:
-        height: auto
+        height: screen
         width: narrow
         margin:
           - mt-1
