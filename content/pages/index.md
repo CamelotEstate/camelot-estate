@@ -36,7 +36,7 @@ sections:
         textAlign: center
       name:
         fontWeight: 400
-        textAlign: right
+        textAlign: center
       title:
         fontWeight: 400
         textAlign: center
