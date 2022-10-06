@@ -8,7 +8,6 @@ sections:
     quote: |+
       # **Secure Estate Living**
 
-    name: Secure Estate Living
     backgroundImage:
       url: /images/overview.jpg
       altText: Camelot Estate Front Entrance
