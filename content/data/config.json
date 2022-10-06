@@ -78,7 +78,7 @@
         "logo": {
             "altText": "Camelot Estate",
             "caption": "Camelot Estate",
-            "elementId": "",
+            "elementId": "footer_logo",
             "styles": {
                 "self": {
                     "opacity": 100
