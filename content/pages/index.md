@@ -127,6 +127,7 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderColor: border-primary
+        borderStyle: solid
       title:
         textAlign: center
       subtitle:
