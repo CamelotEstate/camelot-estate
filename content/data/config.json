@@ -33,7 +33,18 @@
                 "url": "/blog"
             }
         ],
-        "secondaryLinks": [],
+        "secondaryLinks": [
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/link",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "narrow",
