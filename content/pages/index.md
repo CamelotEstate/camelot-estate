@@ -10,7 +10,7 @@ sections:
 
     name: Secure Estate Living
     backgroundImage:
-      url: /images/corner house.jpg
+      url: /images/overview-335b3a09.jpg
       altText: Camelot Estate Front Entrance
       styles:
         self:
