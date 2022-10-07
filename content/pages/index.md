@@ -117,5 +117,5 @@ sections:
       subtitle:
         textAlign: center
       text:
-        textAlign: center
+        textAlign: left
 ---
