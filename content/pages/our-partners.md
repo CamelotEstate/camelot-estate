@@ -113,6 +113,7 @@ sections:
         showIcon: true
         iconPosition: right
         icon: arrowRight
+        altText: Go to HJ Manan
     media:
       type: ImageBlock
       url: /images/post-11.jpg
