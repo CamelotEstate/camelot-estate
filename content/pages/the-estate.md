@@ -90,7 +90,7 @@ sections:
         styles:
           self:
             textAlign: center
-            borderWidth: 1
+            borderWidth: 5
             borderColor: border-primary
             borderStyle: double
             padding:
