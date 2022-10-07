@@ -135,7 +135,7 @@ sections:
               - pr-5
             borderStyle: solid
             borderWidth: 5
-            borderColor: border-complementary
+            borderColor: border-primary
       - type: FeaturedItem
         elementId: ''
         title: Play Park
