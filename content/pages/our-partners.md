@@ -77,58 +77,6 @@ sections:
         textAlign: center
       text:
         textAlign: center
-  - type: FeatureHighlightSection
-    elementId: about_text
-    colors: colors-a
-    title: Estate Management
-    subtitle: null
-    badge: null
-    text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\n"
-    actions:
-      - label: Read More About Camelot Estate
-        altText: Read More
-        url: /the-estate
-        style: primary
-        elementId: hero-main-button
-        type: Button
-      - url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        type: Link
-    media:
-      url: /images/corner house.jpg
-      altText: Hero section image
-      type: ImageBlock
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-4
-          - ml-0
-          - mr-0
-        padding:
-          - pt-6
-          - pb-6
-          - pl-6
-          - pr-6
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-        borderRadius: x-large
-        borderWidth: 3
-        borderStyle: solid
-        borderColor: border-complementary
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: HeroSection
     elementId: ''
     colors: colors-h
