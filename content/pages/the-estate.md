@@ -280,7 +280,7 @@ sections:
         styles:
           self:
             textAlign: center
-            borderWidth: 2
+            borderWidth: 3
             borderColor: border-primary
             borderStyle: double
             padding:
