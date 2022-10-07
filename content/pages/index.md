@@ -100,6 +100,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
+        borderRadius: x-large
       title:
         textAlign: left
       subtitle:
