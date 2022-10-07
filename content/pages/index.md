@@ -122,4 +122,57 @@ sections:
       src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13255.585455778026!2d18.7166061!3d-33.8407832!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa0c66de00e4d978c!2sCamelot%20Estate.!5e0!3m2!1sen!2sza!4v1665067171801!5m2!1sen!2sza"
       width="1300" height="450" style="border:0;" allowfullscreen=""
       loading="lazy" referrerpolicy="no-referrer-when-downgrade">\</iframe>
+  - type: HeroSection
+    elementId: ''
+    colors: colors-h
+    title: Love where you work
+    subtitle: ''
+    badge:
+      label: This is the badge
+      elementId: ''
+      styles:
+        self:
+          textAlign: left
+      type: Badge
+    text: >-
+      One platform, one community, getting to the bottom line of everything
+      employment.  Figure out your benefits, practice for interviews, get
+      mentored, help peers, get helped in return.
+    actions:
+      - type: Button
+        label: Sign Up
+        url: /
+        style: primary
+      - type: Link
+        label: Learn More
+        url: /
+    media:
+      type: ImageBlock
+      url: /images/hero.png
+      altText: Hero image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
 ---
