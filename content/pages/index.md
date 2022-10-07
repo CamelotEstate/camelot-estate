@@ -92,7 +92,7 @@ sections:
   - type: TextSection
     elementId: ''
     colors: colors-a
-    title: Directions
+    title: Location
     subtitle: Camelot Estate
     styles:
       self:
