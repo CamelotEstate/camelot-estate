@@ -78,6 +78,7 @@ sections:
         flexDirection: row-reverse
         borderRadius: x-large
         borderWidth: 8
+        borderStyle: dotted
       title:
         textAlign: left
       subtitle:
