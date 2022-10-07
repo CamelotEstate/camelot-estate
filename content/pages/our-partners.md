@@ -102,7 +102,7 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-h
-    title: Love where you work
+    title: Estate Management
     subtitle: ''
     badge:
       label: This is the badge
