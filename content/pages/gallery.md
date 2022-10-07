@@ -104,7 +104,7 @@ sections:
     spacing: 2
     columns: 4
     aspectRatio: '1:1'
-    imageSizePx: 450
+    imageSizePx: 400
     showCaption: true
     enableHover: true
     styles:
