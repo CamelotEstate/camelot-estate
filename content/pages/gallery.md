@@ -46,7 +46,7 @@ sections:
         textAlign: right
       title:
         fontWeight: 400
-        textAlign: right
+        textAlign: left
   - type: TextSection
     colors: colors-a
     title: This in an empty page
