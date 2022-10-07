@@ -104,13 +104,6 @@ sections:
     colors: colors-h
     title: Estate Management
     subtitle: ''
-    badge:
-      label: This is the badge
-      elementId: ''
-      styles:
-        self:
-          textAlign: left
-      type: Badge
     text: >-
       One platform, one community, getting to the bottom line of everything
       employment.  Figure out your benefits, practice for interviews, get
