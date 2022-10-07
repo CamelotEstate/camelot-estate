@@ -108,6 +108,11 @@ sections:
         styles:
           self:
             textAlign: center
+            padding:
+              - pt-5
+              - pl-5
+              - pb-5
+              - pr-5
       - type: FeaturedItem
         title: Pet Friendly
         text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
