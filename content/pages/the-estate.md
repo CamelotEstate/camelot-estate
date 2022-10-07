@@ -90,7 +90,7 @@ sections:
           - mr-3
         padding:
           - pt-6
-          - pb-12
+          - pb-6
           - pl-4
           - pr-4
         justifyContent: center
