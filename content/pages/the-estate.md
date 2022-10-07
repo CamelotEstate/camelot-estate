@@ -262,4 +262,141 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: FeaturedItemsSection
+    colors: colors-h
+    elementId: ''
+    title: Camelot Amenities
+    subtitle: >-
+      These are all excellent features that will provide exactly the things
+      you’re looking for.
+    items:
+      - title: 24/7 Security
+        text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
+        featuredImage:
+          url: /images/faster.svg
+          altText: Item image
+          type: ImageBlock
+        actions: []
+        styles:
+          self:
+            textAlign: center
+            borderWidth: 1
+            borderColor: border-primary
+            borderStyle: double
+            padding:
+              - pt-5
+              - pl-5
+              - pb-5
+              - pr-5
+        type: FeaturedItem
+      - title: High Speed Internet
+        text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
+        featuredImage:
+          url: /images/smarter.svg
+          altText: Item image
+          type: ImageBlock
+        actions: []
+        styles:
+          self:
+            textAlign: center
+            padding:
+              - pt-5
+              - pl-5
+              - pb-5
+              - pr-5
+        type: FeaturedItem
+      - title: Pet Friendly
+        text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
+        featuredImage:
+          url: /images/focused.svg
+          altText: Item image
+          type: ImageBlock
+        actions: []
+        styles:
+          self:
+            textAlign: center
+            padding:
+              - pt-5
+              - pl-5
+              - pb-5
+              - pr-5
+        type: FeaturedItem
+      - elementId: ''
+        title: Play Park
+        subtitle: ''
+        text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
+        featuredImage:
+          url: /images/focused.svg
+          altText: Item image
+          type: ImageBlock
+        actions: []
+        styles:
+          self:
+            textAlign: center
+            padding:
+              - pt-5
+              - pl-5
+              - pb-5
+              - pr-5
+        type: FeaturedItem
+      - elementId: ''
+        title: Water Wise Landscaping
+        subtitle: ''
+        text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
+        featuredImage:
+          url: /images/smarter.svg
+          altText: Item image
+          type: ImageBlock
+        actions: []
+        styles:
+          self:
+            textAlign: center
+            padding:
+              - pt-5
+              - pl-5
+              - pb-5
+              - pr-5
+        type: FeaturedItem
+      - elementId: ''
+        title: Easy Access
+        subtitle: ''
+        text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
+        featuredImage:
+          url: /images/focused.svg
+          altText: Item image
+          type: ImageBlock
+        actions: []
+        styles:
+          self:
+            textAlign: center
+            padding:
+              - pt-5
+              - pl-5
+              - pb-5
+              - pr-5
+        type: FeaturedItem
+    actions: []
+    columns: 3
+    enableHover: true
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-3
+          - ml-0
+          - mr-0
+        padding:
+          - pt-6
+          - pb-6
+          - pl-6
+          - pr-6
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
 ---
