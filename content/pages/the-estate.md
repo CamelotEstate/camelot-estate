@@ -389,6 +389,7 @@ sections:
               - pr-5
             borderRadius: x-large
             borderColor: border-primary
+            borderWidth: 5
         type: FeaturedItem
     actions: []
     columns: 3
