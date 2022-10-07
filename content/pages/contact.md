@@ -89,5 +89,5 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    backgroundSize: full
+    backgroundSize: inset
 ---
