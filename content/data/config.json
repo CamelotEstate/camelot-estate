@@ -135,7 +135,7 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/logo.png",
-            "altText": "altText of the image",
+            "altText": "Logo",
             "caption": "Caption of the image",
             "elementId": "",
             "styles": {
