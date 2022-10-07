@@ -140,6 +140,15 @@ sections:
         icon: arrowRight
         showIcon: true
         iconPosition: right
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       url: /images/corner house.jpg
       altText: Hero image
