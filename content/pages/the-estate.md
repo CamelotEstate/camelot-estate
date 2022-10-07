@@ -245,7 +245,7 @@ sections:
         iconPosition: right
         type: Link
     media:
-      url: /images/roof overview.jpg
+      url: /images/inside.jpg
       altText: Hero section image
       type: ImageBlock
     styles:
