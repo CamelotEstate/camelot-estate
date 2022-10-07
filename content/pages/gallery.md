@@ -14,7 +14,7 @@ sections:
       # Gallery
 
     name: null
-    title: "Camelot Estate is your opportunity to own a home. Located in the northern suburb of Kraaifontein, in Cape Town, the estate has 108 homes, with several\_design options, all within a 24 hour access controlled security estate."
+    title: Camelot Estate is your opportunity to own a home.
     backgroundImage:
       url: /images/entrance.jpg
       altText: Camelot Estate Front Entrance
