@@ -110,6 +110,7 @@ sections:
         label: Visit HJM Management
         url: /
         style: primary
+        showIcon: true
     media:
       type: ImageBlock
       url: /images/hero.png
