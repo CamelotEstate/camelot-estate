@@ -36,7 +36,7 @@ sections:
       below.
   - type: FeatureHighlightSection
     elementId: contact-info
-    colors: colors-h
+    colors: colors-d
     backgroundSize: inset
     subtitle: ''
     text: |
