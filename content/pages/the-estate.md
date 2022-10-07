@@ -10,9 +10,6 @@ sections:
   - type: TextSection
     colors: colors-a
     title: The Estate
-    subtitle: >-
-      Start adding sections by clicking the + button on the page or though the
-      sidebar.
     styles:
       self:
         height: auto
