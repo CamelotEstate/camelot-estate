@@ -137,6 +137,7 @@ sections:
         url: /the-estate
         style: primary
         type: Button
+        icon: arrowRight
     media:
       url: /images/corner house.jpg
       altText: Hero image
