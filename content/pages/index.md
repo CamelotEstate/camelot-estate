@@ -94,9 +94,9 @@ sections:
           - mr-0
         padding:
           - pt-6
-          - pb-8
+          - pb-6
           - pl-6
-          - pr-4
+          - pr-6
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
