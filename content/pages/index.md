@@ -51,6 +51,7 @@ sections:
         label: Read More About Camelot Estate
         url: /the-estate
         style: secondary
+        showIcon: true
     media:
       type: ImageBlock
       url: /images/corner house.jpg
