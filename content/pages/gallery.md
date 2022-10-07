@@ -16,7 +16,7 @@ sections:
     name: null
     title: Camelot Estate is your opportunity to own a home.
     backgroundImage:
-      url: /images/outside overview.jpg
+      url: /images/house front.png
       altText: Camelot Estate Front Entrance
       caption: Camelot Estate Front Entrance
       elementId: home_banner
