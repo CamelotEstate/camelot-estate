@@ -74,7 +74,7 @@ sections:
           - pl-6
           - pr-6
         alignItems: center
-        justifyContent: flex-end
+        justifyContent: flex-start
         flexDirection: row-reverse
         borderRadius: x-large
       title:
