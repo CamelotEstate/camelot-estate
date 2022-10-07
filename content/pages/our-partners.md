@@ -94,6 +94,7 @@ sections:
         style: primary
         type: Button
         showIcon: true
+        icon: arrowRight
     media:
       url: /images/corner house.jpg
       altText: Hero image
