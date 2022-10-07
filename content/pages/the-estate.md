@@ -8,7 +8,7 @@ metaTags: []
 title: The Estate
 sections:
   - type: TextSection
-    colors: colors-a
+    colors: colors-e
     title: The Estate
     styles:
       self:
