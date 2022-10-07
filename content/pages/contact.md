@@ -106,7 +106,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/house front.png
+      url: /images/contact us.jpg
       altText: Hero image
     styles:
       self:
