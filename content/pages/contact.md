@@ -41,9 +41,9 @@ sections:
     text: |
       #### **Camelot Estate Admin Offices**
 
-      515 Tyger Lake Building
-      Niagara Way
-      Tygerfalls
+      515 Tyger Lake Building,
+      Niagara Way,
+      Tygerfalls,
       7536
 
       ##### **Portfolio Manager**
