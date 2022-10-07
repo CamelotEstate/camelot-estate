@@ -55,9 +55,7 @@ sections:
             borderStyle: double
       - type: FeaturedItem
         title: High Speed Internet
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
         featuredImage:
           type: ImageBlock
           url: /images/smarter.svg
