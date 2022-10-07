@@ -13,7 +13,7 @@ sections:
       altText: Camelot Estate Front Entrance
       styles:
         self:
-          opacity: 70
+          opacity: 100
       caption: Camelot Estate Front Entrance
       elementId: home_banner
     styles:
