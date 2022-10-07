@@ -104,7 +104,7 @@ sections:
     colors: colors-h
     title: Estate Management
     subtitle: ''
-    text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\n"
+    text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry. \n\nLorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\n"
     actions:
       - type: Button
         label: Visit HJM Management
