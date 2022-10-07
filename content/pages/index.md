@@ -46,7 +46,7 @@ sections:
   - type: TextSection
     elementId: ''
     colors: colors-f
-    title: Secure Estate Living
+    title: 'Camelot Estate, Secure Estate Living'
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
