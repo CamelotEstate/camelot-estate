@@ -39,31 +39,19 @@ sections:
     colors: colors-a
     subtitle: ''
     badge: null
-    text: >
-      For any questions, please contact managent agent HJM management on details
-      below.
-
-
+    text: |
       **Camelot Estate Admin Offices**
 
-
       515 Tyger Lake Building
-
       Niagara Way
-
       Tygerfalls
-
       7536
-
 
       ### **Tel: 021 202 2191**
 
-
       **PORTFOLIO MANAGER**
 
-
       **Ruben von Molendorff**
-
 
       Email: info@hjman.co.za
     actions: []
