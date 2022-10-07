@@ -3,7 +3,7 @@
     "favicon": "/images/fav icon.png",
     "header": {
         "headerVariant": "variant-c",
-        "primaryColors": "colors-e",
+        "primaryColors": "colors-a",
         "secondaryColors": "colors-f",
         "title": "Camelot Estate",
         "isTitleVisible": false,
