@@ -308,6 +308,7 @@ sections:
             borderColor: border-primary
             borderRadius: x-large
             borderStyle: double
+            borderWidth: 5
         type: FeaturedItem
       - title: Pet Friendly
         text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
