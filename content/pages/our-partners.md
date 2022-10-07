@@ -112,6 +112,7 @@ sections:
         style: secondary
         showIcon: true
         iconPosition: right
+        icon: arrowRight
     media:
       type: ImageBlock
       url: /images/hero.png
