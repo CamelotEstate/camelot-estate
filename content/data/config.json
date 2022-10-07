@@ -42,7 +42,7 @@
                 "label": "Contact Us",
                 "altText": "Contact Us",
                 "url": "/contact",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "primary",
