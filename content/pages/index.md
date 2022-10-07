@@ -6,7 +6,7 @@ sections:
     elementId: home_banner_title
     colors: colors-c
     quote: |+
-      # **Secure Estate Living**
+      # ****
 
     backgroundImage:
       url: /images/entrance.jpg
