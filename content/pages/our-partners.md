@@ -22,7 +22,7 @@ sections:
       elementId: home_banner
       styles:
         self:
-          opacity: 100
+          opacity: 50
       type: ImageBlock
     styles:
       self:
