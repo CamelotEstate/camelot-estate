@@ -64,7 +64,6 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    title: Camelot Estate
     subtitle: ''
     badge: null
     text: >
