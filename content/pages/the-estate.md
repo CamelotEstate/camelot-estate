@@ -235,7 +235,7 @@ sections:
     colors: colors-a
     backgroundSize: full
     title: Camelot Estate
-    subtitle: null
+    subtitle: Camelot Estate
     badge: null
     text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n\nLorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\n\n**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n\n**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
     actions:
