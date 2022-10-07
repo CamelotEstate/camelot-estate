@@ -41,7 +41,7 @@
                 "type": "Button",
                 "label": "Contact Us",
                 "altText": "Contact Us",
-                "url": "/contact-us",
+                "url": "/contact",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
