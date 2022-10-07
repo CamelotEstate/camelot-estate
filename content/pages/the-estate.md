@@ -32,6 +32,46 @@ sections:
       text:
         textAlign: left
     text: "Camelot Estate is your opportunity to own a home. Located in the northern suburbs on the border of Kraaifontein and Durbanville, in Cape Town. \n\nThe\_estate has 108 homes, with several design options, all within a 24 hour access controlled security estate. Whether you buying for the first time as a growing family or downsizing to better secure your retirement, Camelot Estate has a home for you. \n\nShopping malls, schools, medical facilities and major highways are all located within 10 minutes of the secure estate. The first phase of homes will be delivered in June 2017. Please feel free to contact us for any further information.\n"
+  - type: QuoteSection
+    elementId: home_banner_title
+    colors: colors-c
+    quote: |+
+      # Secure Estate Living
+
+    name: null
+    title: "Camelot Estate is your opportunity to own a home. Located in the northern suburb of Kraaifontein, in Cape Town, the estate has 108 homes, with several\_design options, all within a 24 hour access controlled security estate."
+    backgroundImage:
+      url: /images/entrance.jpg
+      altText: Camelot Estate Front Entrance
+      caption: Camelot Estate Front Entrance
+      elementId: home_banner
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-1
+          - mb-4
+          - ml-0
+          - mr-0
+        padding:
+          - pt-72
+          - pb-4
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: center
+      name:
+        fontWeight: 400
+        textAlign: right
+      title:
+        fontWeight: 400
+        textAlign: right
   - type: FeaturedItemsSection
     colors: colors-h
     elementId: ''
@@ -123,44 +163,4 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-  - type: QuoteSection
-    elementId: home_banner_title
-    colors: colors-c
-    quote: |+
-      # Secure Estate Living
-
-    name: null
-    title: "Camelot Estate is your opportunity to own a home. Located in the northern suburb of Kraaifontein, in Cape Town, the estate has 108 homes, with several\_design options, all within a 24 hour access controlled security estate."
-    backgroundImage:
-      url: /images/entrance.jpg
-      altText: Camelot Estate Front Entrance
-      caption: Camelot Estate Front Entrance
-      elementId: home_banner
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-1
-          - mb-4
-          - ml-0
-          - mr-0
-        padding:
-          - pt-72
-          - pb-4
-          - pl-4
-          - pr-4
-        justifyContent: center
-      quote:
-        textAlign: center
-      name:
-        fontWeight: 400
-        textAlign: right
-      title:
-        fontWeight: 400
-        textAlign: right
 ---
