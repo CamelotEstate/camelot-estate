@@ -109,7 +109,7 @@ sections:
       - type: Button
         label: Visit HJM Management
         url: /
-        style: secondary
+        style: primary
         showIcon: true
         iconPosition: right
         icon: arrowRight
