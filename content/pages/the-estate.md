@@ -65,9 +65,7 @@ sections:
             textAlign: center
       - type: FeaturedItem
         title: Pet Friendly
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
         featuredImage:
           type: ImageBlock
           url: /images/focused.svg
