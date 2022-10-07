@@ -115,7 +115,7 @@ sections:
         icon: arrowRight
     media:
       type: ImageBlock
-      url: /images/house front-2a0ca6a2.png
+      url: /images/post-11.jpg
       altText: Hero image
     styles:
       self:
