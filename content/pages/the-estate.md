@@ -353,7 +353,7 @@ sections:
             borderStyle: double
         type: FeaturedItem
       - elementId: ''
-        title: Water Wise Landscaping
+        title: Water Wise Landscape
         subtitle: ''
         text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
         featuredImage:
