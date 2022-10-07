@@ -42,7 +42,6 @@ sections:
       **Camelot Estate Admin Offices**
 
 
-
       515 Tyger Lake Building
 
       Niagara Way
@@ -57,7 +56,11 @@ sections:
 
       **PORTFOLIO MANAGER**
 
+
+
       **Ruben von Molendorff**
+
+
 
       Email: info@hjman.co.za
 ---
