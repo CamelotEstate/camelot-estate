@@ -279,7 +279,7 @@ sections:
         justifyContent: flex-start
   - type: HeroSection
     elementId: ''
-    colors: colors-a
+    colors: colors-c
     title: Camelot Estate
     subtitle: ''
     badge: null
