@@ -107,7 +107,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/contact us.jpg
-      altText: Hero image
+      altText: Contact Us
       elementId: contact-image
     styles:
       self:
