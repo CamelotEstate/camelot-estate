@@ -32,51 +32,6 @@ sections:
       text:
         textAlign: left
     text: "Camelot Estate is your opportunity to own a home. Located in the northern suburbs on the border of Kraaifontein and Durbanville, in Cape Town. \n\nThe\_estate has 108 homes, with several design options, all within a 24 hour access controlled security estate. Whether you buying for the first time as a growing family or downsizing to better secure your retirement, Camelot Estate has a home for you. \n\nShopping malls, schools, medical facilities and major highways are all located within 10 minutes of the secure estate. The first phase of homes will be delivered in June 2017. Please feel free to contact us for any further information.\n"
-  - type: CtaSection
-    elementId: ''
-    colors: colors-a
-    backgroundSize: inset
-    title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
-    actions:
-      - type: Button
-        label: Try it now
-        url: /
-        style: primary
-    backgroundImage:
-      type: ImageBlock
-      url: /images/overview-fa482fd7.jpg
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: FeatureHighlightSection
     elementId: about_text
     colors: colors-a
