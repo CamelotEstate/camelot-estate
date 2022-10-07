@@ -1,0 +1,92 @@
+{
+    "model": "FeatureHighlightSection",
+    "presets": [
+        {
+            "label": "Image Left",
+            "thumbnail": "images/feature-highlight-section-image-left-b41b.png",
+            "metadata": {
+                "categories": [
+                    "ImageLeft"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "elementId": "about_text",
+                "colors": "colors-a",
+                "backgroundSize": "inset",
+                "title": "Camelot Estate",
+                "subtitle": null,
+                "badge": null,
+                "text": "Camelot Estate is your opportunity to own a home.\n\n**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n",
+                "actions": [
+                    {
+                        "label": "Read More About Camelot Estate",
+                        "altText": "Read More",
+                        "url": "/the-estate",
+                        "showIcon": null,
+                        "icon": null,
+                        "iconPosition": null,
+                        "style": "primary",
+                        "elementId": "hero-main-button",
+                        "$$type": "Button"
+                    },
+                    {
+                        "label": null,
+                        "altText": null,
+                        "url": "/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": null,
+                        "$$type": "Link"
+                    }
+                ],
+                "media": {
+                    "url": "/images/corner house.jpg",
+                    "altText": "Hero section image",
+                    "caption": null,
+                    "elementId": null,
+                    "styles": null,
+                    "$$type": "ImageBlock"
+                },
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "margin": [
+                            "mt-0",
+                            "mb-4",
+                            "ml-0",
+                            "mr-0"
+                        ],
+                        "padding": [
+                            "pt-6",
+                            "pb-6",
+                            "pl-6",
+                            "pr-6"
+                        ],
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                        "flexDirection": "row-reverse",
+                        "borderRadius": "x-large",
+                        "borderWidth": 8,
+                        "borderStyle": "solid",
+                        "borderColor": "border-complementary"
+                    },
+                    "title": {
+                        "textAlign": "left"
+                    },
+                    "subtitle": {
+                        "textAlign": "left"
+                    },
+                    "text": {
+                        "textAlign": "left"
+                    },
+                    "actions": {
+                        "justifyContent": "flex-start"
+                    }
+                }
+            }
+        }
+    ]
+}
