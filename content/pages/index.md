@@ -94,13 +94,7 @@ sections:
     colors: colors-a
     title: Directions
     subtitle: Driving Direction to Camelot Estate
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: "Cape town outbond\n\n·\_\_\_\_\_Merge ontoN1\n\n·\_\_\_\_\_\nTake exit\_32\_for\_M15/Brighton Road\n\n·\_\_\_\_\_\nMerge\nonto\_Brighton Rd/M15\n\n·\_\_\_\_\_\nTurn\_right\_onto\_Lunar\nRd\n\n·\_\_\_\_\_\nTurn\_right\_onto\_Joubert\nSt\n\n·\_\_\_\_\_\nTurn\_left\_onto\_Milton\nRd\n\n·\_\_\_\_\_\nContinue\nstraight onto\_Krige St\n\n·\_\_\_\_\_\nTurn\_left\_onto\_Milton\nRd. Camelot Estate will be on left\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\\<br/>\\<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13255.585455778026!2d18.7166061!3d-33.8407832!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa0c66de00e4d978c!2sCamelot%20Estate.!5e0!3m2!1sen!2sza!4v1665067171801!5m2!1sen!2sza\" width=\"1300\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\">\\</iframe>\n"
     styles:
       self:
         height: auto
