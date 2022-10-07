@@ -88,7 +88,7 @@ sections:
         justifyContent: center
         flexDirection: row-reverse
         borderRadius: x-large
-        borderWidth: 0
+        borderWidth: 3
         borderStyle: solid
         borderColor: border-complementary
       title:
