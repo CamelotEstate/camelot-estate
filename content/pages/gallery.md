@@ -80,7 +80,7 @@ sections:
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
       inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
   - type: MediaGallerySection
-    colors: colors-f
+    colors: colors-a
     elementId: ''
     title: Gallery
     subtitle: This is the subtitle
