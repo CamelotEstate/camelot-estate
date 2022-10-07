@@ -135,7 +135,7 @@ sections:
     actions:
       - label: Read More About Camelot Estate
         url: /the-estate
-        style: primary
+        style: secondary
         type: Button
     media:
       url: /images/corner house.jpg
