@@ -138,7 +138,7 @@ sections:
         style: primary
         type: Button
         icon: arrowRight
-        showIcon: true
+        showIcon: false
         iconPosition: right
     media:
       url: /images/corner house.jpg
