@@ -32,59 +32,6 @@ sections:
       text:
         textAlign: left
     text: "Camelot Estate is your opportunity to own a home. Located in the northern suburbs on the border of Kraaifontein and Durbanville, in Cape Town. \n\nThe\_estate has 108 homes, with several design options, all within a 24 hour access controlled security estate. Whether you buying for the first time as a growing family or downsizing to better secure your retirement, Camelot Estate has a home for you. \n\nShopping malls, schools, medical facilities and major highways are all located within 10 minutes of the secure estate. The first phase of homes will be delivered in June 2017. Please feel free to contact us for any further information.\n"
-  - type: FeatureHighlightSection
-    elementId: about_text
-    colors: colors-a
-    backgroundSize: inset
-    title: Camelot Estate
-    subtitle: null
-    badge: null
-    text: "Camelot Estate is your opportunity to own a home.\n\n**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n"
-    actions:
-      - label: Read More About Camelot Estate
-        altText: Read More
-        url: /the-estate
-        style: primary
-        elementId: hero-main-button
-        type: Button
-      - url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        type: Link
-    media:
-      url: /images/corner house.jpg
-      altText: Hero section image
-      type: ImageBlock
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-4
-          - mb-4
-          - ml-0
-          - mr-0
-        padding:
-          - pt-6
-          - pb-6
-          - pl-6
-          - pr-6
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-        borderRadius: x-large
-        borderWidth: 8
-        borderStyle: solid
-        borderColor: border-complementary
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: FeaturedItemsSection
     colors: colors-h
     elementId: ''
