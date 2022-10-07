@@ -177,7 +177,7 @@ sections:
     styles:
       self:
         height: auto
-        width: full
+        width: wide
         margin:
           - mt-3
           - mb-3
