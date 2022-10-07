@@ -40,7 +40,7 @@ sections:
     backgroundSize: inset
     subtitle: ''
     text: |
-      **Camelot Estate Admin Offices**
+      #### **Camelot Estate Admin Offices**
 
       515 Tyger Lake Building
       Niagara Way
@@ -50,7 +50,6 @@ sections:
       ### **Tel: 021 202 2191**
 
       PORTFOLIO MANAGER
-
 
       **Ruben von Molendorff**
 
