@@ -42,9 +42,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 24/7 Security
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
         featuredImage:
           type: ImageBlock
           url: /images/faster.svg
