@@ -91,7 +91,7 @@ sections:
     actions:
       - label: Visit HJM Management
         url: /the-estate
-        style: secondary
+        style: primary
         type: Button
     media:
       url: /images/corner house.jpg
