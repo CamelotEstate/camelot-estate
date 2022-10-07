@@ -109,6 +109,7 @@ sections:
       url: /images/contact us.jpg
       altText: Contact Us
       elementId: contact-image
+      caption: Contact Us
     styles:
       self:
         height: auto
