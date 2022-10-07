@@ -366,6 +366,7 @@ sections:
               - pb-5
               - pr-5
             borderRadius: x-large
+            borderColor: border-primary
         type: FeaturedItem
       - elementId: ''
         title: Easy Access
