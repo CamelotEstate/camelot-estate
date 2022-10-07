@@ -254,7 +254,7 @@ sections:
         width: wide
         margin:
           - mt-6
-          - mb-4
+          - mb-6
           - ml-28
           - mr-28
         padding:
