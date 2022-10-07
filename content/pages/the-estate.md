@@ -158,7 +158,7 @@ sections:
           - pr-6
         justifyContent: center
       title:
-        textAlign: center
+        textAlign: left
       subtitle:
         textAlign: left
       actions:
