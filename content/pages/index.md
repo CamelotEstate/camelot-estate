@@ -78,7 +78,7 @@ sections:
         flexDirection: row-reverse
         borderRadius: x-large
         borderWidth: 8
-        borderStyle: double
+        borderStyle: solid
       title:
         textAlign: left
       subtitle:
