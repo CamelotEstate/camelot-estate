@@ -134,7 +134,7 @@
         "text": "**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. \n",
         "logo": {
             "type": "ImageBlock",
-            "url": "https://assets.stackbit.com/components/images/default/default-image.png",
+            "url": "/images/fav icon.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": "",
