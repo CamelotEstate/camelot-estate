@@ -113,7 +113,7 @@ sections:
         showIcon: true
         iconPosition: right
         icon: arrowRight
-        altText: Go to HJ Manan
+        altText: Go to HJ Management Webiste
     media:
       type: ImageBlock
       url: /images/post-11.jpg
