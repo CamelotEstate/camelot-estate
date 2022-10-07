@@ -100,7 +100,7 @@ sections:
     actions:
       - type: Button
         label: Read More About Camelot Estate
-        url: /
+        url: /the-estate
         style: primary
     media:
       type: ImageBlock
