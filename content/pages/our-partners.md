@@ -50,7 +50,6 @@ sections:
   - type: FeatureHighlightSection
     elementId: about_text
     colors: colors-a
-    backgroundSize: inset
     title: Estate Management
     subtitle: null
     badge: null
