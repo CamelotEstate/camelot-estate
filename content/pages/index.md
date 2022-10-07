@@ -120,4 +120,37 @@ sections:
       src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13255.585455778026!2d18.7166061!3d-33.8407832!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa0c66de00e4d978c!2sCamelot%20Estate.!5e0!3m2!1sen!2sza!4v1665067171801!5m2!1sen!2sza"
       width="1300" height="450" style="border:0;" allowfullscreen=""
       loading="lazy" referrerpolicy="no-referrer-when-downgrade">\</iframe>
+  - type: TextSection
+    elementId: ''
+    colors: colors-f
+    title: The Section Title
+    subtitle: The section subtitle
+    text: >-
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
 ---
