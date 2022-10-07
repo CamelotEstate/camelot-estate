@@ -325,6 +325,7 @@ sections:
               - pl-5
               - pb-5
               - pr-5
+            borderRadius: x-large
         type: FeaturedItem
       - elementId: ''
         title: Play Park
