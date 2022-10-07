@@ -95,7 +95,7 @@ sections:
         padding:
           - pt-8
           - pb-8
-          - pl-7
+          - pl-8
           - pr-4
         alignItems: center
         justifyContent: center
