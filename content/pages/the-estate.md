@@ -242,7 +242,7 @@ sections:
         justifyContent: center
         flexDirection: row
         borderRadius: x-large
-        borderWidth: 8
+        borderWidth: 0
         borderStyle: solid
         borderColor: border-complementary
       title:
