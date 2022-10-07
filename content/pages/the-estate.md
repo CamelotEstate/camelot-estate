@@ -305,6 +305,7 @@ sections:
               - pl-5
               - pb-5
               - pr-5
+            borderColor: border-primary
         type: FeaturedItem
       - title: Pet Friendly
         text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
