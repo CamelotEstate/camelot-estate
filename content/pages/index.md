@@ -53,6 +53,7 @@ sections:
         style: secondary
         showIcon: true
         icon: arrowRight
+        iconPosition: right
     media:
       type: ImageBlock
       url: /images/corner house.jpg
