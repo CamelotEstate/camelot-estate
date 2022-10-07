@@ -61,7 +61,7 @@
         "borderRadius": "full",
         "horizontalPadding": 30,
         "verticalPadding": 12,
-        "shadow": "none"
+        "shadow": "xl"
     },
     "buttonSecondary": {
         "weight": "normal",
