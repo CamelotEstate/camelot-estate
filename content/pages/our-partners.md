@@ -83,50 +83,6 @@ sections:
         textAlign: left
   - type: HeroSection
     elementId: ''
-    colors: colors-h
-    title: Estate Management
-    subtitle: ''
-    text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry. \n\nLorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\n"
-    actions:
-      - type: Button
-        label: Visit HJM Management
-        url: 'https://www.hjman.co.za/'
-        style: primary
-        showIcon: true
-        iconPosition: right
-        icon: arrowRight
-        altText: Go to HJ Management Webiste
-    media:
-      type: ImageBlock
-      url: /images/corner house.jpg
-      altText: Hero image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-1
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: HeroSection
-    elementId: ''
     colors: colors-a
     title: Camelot Estate
     subtitle: ''
