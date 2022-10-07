@@ -80,7 +80,7 @@ sections:
         text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
         featuredImage:
           type: ImageBlock
-          url: /images/gatsby.svg
+          url: /images/focused.svg
           altText: Item image
         actions: []
         styles:
