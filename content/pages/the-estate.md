@@ -164,43 +164,6 @@ sections:
       actions:
         justifyContent: center
   - type: FeatureHighlightSection
-    elementId: ''
-    colors: colors-a
-    title: 'A great feature, we’re proud of'
-    subtitle: ''
-    text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.\n"
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/house front.png
-      altText: Hero image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-3
-          - mb-3
-          - ml-3
-          - mr-3
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-        borderRadius: x-large
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: FeatureHighlightSection
     elementId: about_text
     colors: colors-a
     backgroundSize: full
