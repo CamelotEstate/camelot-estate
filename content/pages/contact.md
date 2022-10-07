@@ -78,7 +78,7 @@ sections:
         justifyContent: center
         flexDirection: row
         borderRadius: x-large
-        borderColor: border-primary
+        borderColor: border-complementary
         borderWidth: 5
         borderStyle: solid
       title:
