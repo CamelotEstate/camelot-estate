@@ -138,7 +138,7 @@ sections:
         style: primary
     backgroundImage:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/overview-fa482fd7.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
