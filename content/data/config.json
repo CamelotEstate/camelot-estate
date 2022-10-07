@@ -122,7 +122,7 @@
         ],
         "styles": {
             "self": {
-                "width": "wide",
+                "width": "narrow",
                 "padding": [
                     "pt-0",
                     "pb-4",
