@@ -261,7 +261,7 @@ sections:
           - pt-4
           - pb-4
           - pl-8
-          - pr-4
+          - pr-8
         alignItems: center
         justifyContent: center
         flexDirection: row
