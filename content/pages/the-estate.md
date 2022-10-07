@@ -93,7 +93,7 @@ sections:
         text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
         featuredImage:
           type: ImageBlock
-          url: /images/google-play.svg
+          url: /images/smarter.svg
           altText: Item image
         actions: []
         styles:
