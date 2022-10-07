@@ -178,7 +178,7 @@ sections:
         iconPosition: right
         type: Link
     media:
-      url: /images/carla.jpg
+      url: /images/house front-2a0ca6a2.png
       altText: Hero section image
       type: ImageBlock
     styles:
