@@ -56,7 +56,7 @@ sections:
             borderColor: border-primary
             borderStyle: double
       - type: FeaturedItem
-        title: Smarter
+        title: High Speed Internet
         text: >-
           Learn how top tech companies have learned working remote using our
           product.
