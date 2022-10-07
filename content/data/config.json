@@ -74,7 +74,7 @@
         }
     },
     "footer": {
-        "colors": "colors-e",
+        "colors": "colors-c",
         "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)\n",
         "primaryLinks": [],
         "socialLinks": [],
