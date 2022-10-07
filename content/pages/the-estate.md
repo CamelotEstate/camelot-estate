@@ -253,7 +253,7 @@ sections:
         height: auto
         width: wide
         margin:
-          - mt-4
+          - mt-6
           - mb-4
           - ml-28
           - mr-28
