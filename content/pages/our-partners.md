@@ -98,7 +98,7 @@ sections:
         altText: Go to HJ Management Webiste
     media:
       type: ImageBlock
-      url: /images/estate management.jpg
+      url: /images/bg.jpg
       altText: Hero image
     styles:
       self:
