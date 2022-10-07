@@ -166,7 +166,7 @@ sections:
   - type: FeatureHighlightSection
     elementId: ''
     colors: colors-a
-    backgroundSize: inset
+    backgroundSize: full
     title: 'A great feature, we’re proud of'
     subtitle: ''
     text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.\n"
