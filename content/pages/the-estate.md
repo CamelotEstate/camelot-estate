@@ -82,7 +82,7 @@ sections:
     styles:
       self:
         height: auto
-        width: full
+        width: narrow
         margin:
           - mt-3
           - mb-3
