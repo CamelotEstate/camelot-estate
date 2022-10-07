@@ -76,18 +76,7 @@
     "footer": {
         "colors": "colors-a",
         "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)\n",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Learn more",
-                "altText": "",
-                "url": "/the-estate",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [],
         "legalLinks": [
             {
