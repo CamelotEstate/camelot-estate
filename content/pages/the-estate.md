@@ -13,9 +13,7 @@ sections:
     quote: |+
       # **The Estate**
 
-    title: >-
-      Camelot Estate is your opportunity to own a home. Located in the northern
-      suburbs on the border of Kraaifontein and Durbanville, in Cape Town.
+    title: ' Located in the northern suburbs on the border of Kraaifontein and Durbanville, in Cape Town.'
     backgroundImage:
       url: /images/entrance.jpg
       altText: Camelot Estate Front Entrance
