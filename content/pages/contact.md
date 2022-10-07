@@ -148,7 +148,7 @@ sections:
       ### **Tel: 021 202 2191**
 
 
-      **PORTFOLIO MANAGER**
+      **PORTFOLIO MANAGER   **
 
       **Ruben von Molendorff**
 
