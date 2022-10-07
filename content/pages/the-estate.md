@@ -203,7 +203,7 @@ sections:
   - type: FeatureHighlightSection
     elementId: about_text
     colors: colors-a
-    backgroundSize: inset
+    backgroundSize: full
     title: Camelot Estate
     subtitle: null
     badge: null
