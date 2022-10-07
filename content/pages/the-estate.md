@@ -98,7 +98,7 @@ sections:
         actions: []
         styles:
           self:
-            textAlign: left
+            textAlign: center
     actions: []
     columns: 3
     enableHover: true
