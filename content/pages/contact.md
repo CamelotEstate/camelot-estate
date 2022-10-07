@@ -52,6 +52,8 @@ sections:
 
       **Ruben von Molendorff**
 
+      Tel: 021 202 2191
+
       Email: info@hjman.co.za
     actions: []
     media:
