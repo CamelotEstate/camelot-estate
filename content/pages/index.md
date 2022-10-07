@@ -53,7 +53,7 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-0
+          - pt-2
           - pb-3
           - pl-3
           - pr-3
