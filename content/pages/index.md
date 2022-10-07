@@ -40,31 +40,6 @@ sections:
         fontWeight: 400
         textAlign: right
     title: "Camelot Estate is your opportunity to own a home. Located in the northern suburb of Kraaifontein, in Cape Town, the estate has 108 homes, with several\_design options, all within a 24 hour access controlled security estate."
-  - type: TextSection
-    elementId: ''
-    colors: colors-a
-    text: "Camelot Estate is your opportunity to own a home. Located in the northern suburb of Kraaifontein, in Cape Town, the estate has 108 homes, with several\_design options, all within a 24 hour access controlled security estate.\n"
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-4
-          - mb-1
-          - ml-0
-          - mr-0
-        padding:
-          - pt-5
-          - pb-2
-          - pl-3
-          - pr-3
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
   - elementId: about_text
     colors: colors-a
     text: "Camelot Estate is your opportunity to own a home.\n\n**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n"
