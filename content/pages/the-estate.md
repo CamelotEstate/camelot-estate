@@ -255,7 +255,7 @@ sections:
         margin:
           - mt-6
           - mb-6
-          - ml-11
+          - ml-2
           - mr-11
         padding:
           - pt-8
