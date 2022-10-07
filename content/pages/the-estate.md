@@ -47,7 +47,7 @@ sections:
         textAlign: right
       title:
         fontWeight: 400
-        textAlign: center
+        textAlign: left
   - type: TextSection
     colors: colors-a
     styles:
