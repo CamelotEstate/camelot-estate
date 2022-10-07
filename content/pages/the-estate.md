@@ -178,7 +178,7 @@ sections:
         iconPosition: right
         type: Link
     media:
-      url: /images/corner house.jpg
+      url: /images/overview.jpg
       altText: Hero section image
       type: ImageBlock
     styles:
