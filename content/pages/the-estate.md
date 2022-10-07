@@ -169,9 +169,7 @@ sections:
     backgroundSize: full
     title: 'A great feature, we’re proud of'
     subtitle: ''
-    text: >-
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.\n"
     actions: []
     media:
       type: ImageBlock
