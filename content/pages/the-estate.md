@@ -50,7 +50,6 @@ sections:
         textAlign: right
   - type: TextSection
     colors: colors-a
-    title: The Estate
     styles:
       self:
         height: auto
