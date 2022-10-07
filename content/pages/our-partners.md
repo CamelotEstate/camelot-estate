@@ -59,10 +59,10 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-12
-          - pb-36
-          - pl-4
-          - pr-4
+          - pt-6
+          - pb-6
+          - pl-6
+          - pr-6
         justifyContent: center
       title:
         textAlign: left
