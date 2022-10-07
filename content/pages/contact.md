@@ -77,7 +77,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
-        borderRadius: x-large
+        borderRadius: none
         borderColor: border-primary
         borderWidth: 0
         borderStyle: solid
