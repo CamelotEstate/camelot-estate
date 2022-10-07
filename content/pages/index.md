@@ -104,7 +104,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/corner house.jpg
       altText: Hero image
     styles:
       self:
