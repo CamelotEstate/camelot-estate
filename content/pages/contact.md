@@ -93,11 +93,7 @@ sections:
 
 
       Email: info@hjman.co.za
-    actions:
-      - label: Read More About Camelot Estate
-        url: /the-estate
-        style: primary
-        type: Button
+    actions: []
     media:
       url: /images/corner house.jpg
       altText: Hero image
