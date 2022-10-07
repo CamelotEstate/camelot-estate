@@ -34,10 +34,10 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-4
-          - pb-4
-          - pl-4
-          - pr-4
+          - pt-11
+          - pb-11
+          - pl-11
+          - pr-11
         justifyContent: center
       quote:
         textAlign: left
