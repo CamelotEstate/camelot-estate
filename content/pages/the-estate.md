@@ -160,7 +160,7 @@ sections:
       title:
         textAlign: center
       subtitle:
-        textAlign: center
+        textAlign: left
       actions:
         justifyContent: center
 ---
