@@ -256,7 +256,7 @@ sections:
           - mt-6
           - mb-6
           - ml-11
-          - mr-28
+          - mr-11
         padding:
           - pt-8
           - pb-8
