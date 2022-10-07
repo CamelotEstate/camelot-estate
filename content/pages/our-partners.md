@@ -108,7 +108,7 @@ sections:
     actions:
       - type: Button
         label: Visit HJM Management
-        url: /
+        url: '//https://www.hjman.co.za/'
         style: primary
         showIcon: true
         iconPosition: right
