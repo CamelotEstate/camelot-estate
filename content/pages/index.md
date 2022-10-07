@@ -102,9 +102,6 @@ sections:
         label: Sign Up
         url: /
         style: primary
-      - type: Link
-        label: Learn More
-        url: /
     media:
       type: ImageBlock
       url: /images/hero.png
