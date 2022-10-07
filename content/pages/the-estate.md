@@ -123,6 +123,11 @@ sections:
         styles:
           self:
             textAlign: center
+            padding:
+              - pt-5
+              - pl-5
+              - pb-5
+              - pr-5
       - type: FeaturedItem
         elementId: ''
         title: Play Park
