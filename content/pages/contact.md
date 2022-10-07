@@ -46,9 +46,7 @@ sections:
       Tygerfalls
       7536
 
-      #### **Portfolio Manager**
-
-      PORTFOLIO MANAGER
+      ##### **Portfolio Manager**
 
       **Ruben von Molendorff**
 
