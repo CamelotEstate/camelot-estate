@@ -11,7 +11,7 @@ sections:
     elementId: home_banner_title
     colors: colors-c
     quote: |+
-      # **The Estate**
+      # The Estate
 
     title: >-
       Located in the northern suburbs on the border of Kraaifontein and
