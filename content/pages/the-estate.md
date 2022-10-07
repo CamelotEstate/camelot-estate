@@ -327,6 +327,7 @@ sections:
               - pr-5
             borderRadius: x-large
             borderWidth: 5
+            borderStyle: double
         type: FeaturedItem
       - elementId: ''
         title: Play Park
