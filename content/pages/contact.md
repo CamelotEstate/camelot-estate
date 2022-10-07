@@ -128,13 +128,6 @@ sections:
     colors: colors-a
     backgroundSize: full
     subtitle: ''
-    badge:
-      label: This is the badge
-      elementId: ''
-      styles:
-        self:
-          textAlign: left
-      type: Badge
     text: >-
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together
