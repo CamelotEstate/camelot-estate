@@ -37,7 +37,6 @@ sections:
   - type: FeatureHighlightSection
     elementId: contact-info
     colors: colors-a
-    backgroundSize: inset
     subtitle: ''
     text: |
       #### **Camelot Estate Admin Offices**
