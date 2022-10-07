@@ -94,7 +94,7 @@ sections:
           - mr-0
         padding:
           - pt-8
-          - pb-5
+          - pb-8
           - pl-4
           - pr-4
         alignItems: center
