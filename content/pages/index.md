@@ -73,7 +73,7 @@ sections:
           - pb-6
           - pl-6
           - pr-6
-        alignItems: center
+        alignItems: flex-end
         justifyContent: center
         flexDirection: row-reverse
         borderRadius: x-large
