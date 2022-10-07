@@ -79,7 +79,7 @@ sections:
         flexDirection: row
         borderRadius: x-large
         borderColor: border-complementary
-        borderWidth: 2
+        borderWidth: 5
       title:
         textAlign: left
       subtitle:
