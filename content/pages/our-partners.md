@@ -47,30 +47,6 @@ sections:
       title:
         fontWeight: 400
         textAlign: left
-  - type: TextSection
-    colors: colors-a
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-3
-          - mb-3
-          - ml-0
-          - mr-0
-        padding:
-          - pt-6
-          - pb-6
-          - pl-6
-          - pr-6
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-    text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry. \n\nLorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\n"
   - type: FeatureHighlightSection
     elementId: about_text
     colors: colors-a
