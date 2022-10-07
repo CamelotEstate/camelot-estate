@@ -93,23 +93,7 @@ sections:
     elementId: ''
     colors: colors-a
     title: Directions
-    text: >+
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-
-
-      <br/>
-
-
-      <iframe
-      src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13255.585455778026!2d18.7166061!3d-33.8407832!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa0c66de00e4d978c!2sCamelot%20Estate.!5e0!3m2!1sen!2sza!4v1665067171801!5m2!1sen!2sza"
-      width="1300" height="450" style="border:0;" allowfullscreen=""
-      loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+    text: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. \n\nDriving directions to Camelot Estate\n\nCape town outbond\n\n*   Merge onto\_N1\n\n*   Take exit\_32\_for\_M15/Brighton Road\n\n*   Merge onto\_Brighton Rd/M15 \n\n*   Turn\_right\_onto\_Lunar Rd \n\n*   Turn\_right\_onto\_Joubert St\n\n*   Turn\_left\_onto\_Milton Rd\n\n*   Continue straight onto\_Krige St \n\n*   Turn\_left\_onto\_Milton Rd. Camelot Estate will be on left\n\n<br/>\n\n<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13255.585455778026!2d18.7166061!3d-33.8407832!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa0c66de00e4d978c!2sCamelot%20Estate.!5e0!3m2!1sen!2sza!4v1665067171801!5m2!1sen!2sza\" width=\"1300\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>\n\n"
     styles:
       self:
         height: auto
