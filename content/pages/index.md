@@ -75,7 +75,7 @@ sections:
           - pr-6
         alignItems: center
         justifyContent: center
-        flexDirection: row-reverse
+        flexDirection: row
         borderRadius: x-large
       title:
         textAlign: left
