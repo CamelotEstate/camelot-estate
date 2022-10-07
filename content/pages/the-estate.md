@@ -53,6 +53,7 @@ sections:
           self:
             textAlign: center
             borderWidth: 1
+            borderColor: border-primary
       - type: FeaturedItem
         title: Smarter
         text: >-
