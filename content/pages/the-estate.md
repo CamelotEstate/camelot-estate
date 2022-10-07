@@ -258,7 +258,7 @@ sections:
           - ml-28
           - mr-28
         padding:
-          - pt-4
+          - pt-8
           - pb-4
           - pl-8
           - pr-8
