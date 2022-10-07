@@ -260,7 +260,7 @@ sections:
         padding:
           - pt-8
           - pb-8
-          - pl-20
+          - pl-8
           - pr-8
         alignItems: center
         justifyContent: center
