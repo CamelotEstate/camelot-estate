@@ -83,7 +83,7 @@ sections:
         textAlign: left
   - type: HeroSection
     elementId: ''
-    colors: colors-b
+    colors: colors-d
     title: Camelot Estate
     subtitle: ''
     badge: null
