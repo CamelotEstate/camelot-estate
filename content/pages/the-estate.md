@@ -141,7 +141,7 @@ sections:
             textAlign: center
       - type: FeaturedItem
         elementId: ''
-        title: Item Title
+        title: Easy Access
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
