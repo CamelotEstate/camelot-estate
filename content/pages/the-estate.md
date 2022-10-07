@@ -146,8 +146,7 @@ sections:
         text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/focused.svg
           altText: Item image
         actions: []
         styles:
