@@ -111,7 +111,6 @@ sections:
         justifyContent: flex-start
     type: FeatureHighlightSection
     title: Camelot Estate
-    backgroundSize: full
   - type: TextSection
     elementId: ''
     colors: colors-a
