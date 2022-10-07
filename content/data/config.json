@@ -111,7 +111,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Contact Us",
                 "altText": "",
                 "url": "/contact-us",
                 "showIcon": false,
