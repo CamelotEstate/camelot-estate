@@ -49,7 +49,6 @@ sections:
         textAlign: left
   - type: TextSection
     colors: colors-a
-    title: This in an empty page
     styles:
       self:
         height: auto
