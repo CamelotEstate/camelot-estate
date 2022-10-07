@@ -78,7 +78,7 @@ sections:
       subtitle:
         textAlign: center
       text:
-        textAlign: center
+        textAlign: left
   - type: HeroSection
     elementId: ''
     colors: colors-h
