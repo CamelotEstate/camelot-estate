@@ -46,7 +46,7 @@ sections:
       Tygerfalls
       7536
 
-      #### **Tel: 021 202 2191 PORTFOLIO MANAGER**
+      #### **Portfolio Manager**
 
       PORTFOLIO MANAGER
 
