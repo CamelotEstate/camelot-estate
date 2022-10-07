@@ -179,11 +179,7 @@ sections:
     text: >-
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together
-    actions:
-      - type: Button
-        label: Sign Up
-        url: /
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/house front.png
