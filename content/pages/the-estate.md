@@ -41,7 +41,7 @@ sections:
       you’re looking for.
     items:
       - type: FeaturedItem
-        title: Faster
+        title: 24/7 Security
         text: >-
           Learn how top tech companies have learned working remote using our
           product.
