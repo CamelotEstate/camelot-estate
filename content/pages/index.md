@@ -85,7 +85,7 @@ sections:
         justifyContent: flex-start
   - type: TextSection
     elementId: location
-    colors: colors-h
+    colors: colors-a
     title: Location
     styles:
       self:
