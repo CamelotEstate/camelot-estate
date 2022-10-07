@@ -93,7 +93,6 @@ sections:
     elementId: ''
     colors: colors-a
     title: Location
-    subtitle: Camelot Estate
     styles:
       self:
         height: auto
