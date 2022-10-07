@@ -35,7 +35,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-h
     elementId: ''
-    title: Why Camelot
+    title: Camelot Amenities
     subtitle: >-
       These are all excellent features that will provide exactly the things
       you’re looking for.
