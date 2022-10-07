@@ -57,9 +57,7 @@ sections:
       **PORTFOLIO MANAGER**
 
 
-
       **Ruben von Molendorff**
-
 
 
       Email: info@hjman.co.za
