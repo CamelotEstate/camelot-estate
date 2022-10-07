@@ -50,7 +50,7 @@ sections:
       - type: Button
         label: Read More About Camelot Estate
         url: /the-estate
-        style: primary
+        style: secondary
     media:
       type: ImageBlock
       url: /images/corner house.jpg
