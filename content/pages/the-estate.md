@@ -94,10 +94,10 @@ sections:
             borderColor: border-primary
             borderStyle: double
             padding:
-              - pt-2
-              - pl-2
-              - pb-2
-              - pr-2
+              - pt-5
+              - pl-5
+              - pb-5
+              - pr-5
       - type: FeaturedItem
         title: High Speed Internet
         text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
