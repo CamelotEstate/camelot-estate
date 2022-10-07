@@ -92,7 +92,7 @@ sections:
     title: Camelot Estate
     backgroundSize: inset
   - type: TextSection
-    elementId: ''
+    elementId: location
     colors: colors-a
     title: Location
     styles:
