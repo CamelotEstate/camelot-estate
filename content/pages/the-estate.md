@@ -199,7 +199,7 @@ sections:
         justifyContent: center
         flexDirection: row
         borderRadius: x-large
-        borderWidth: 0
+        borderWidth: 1
         borderStyle: solid
         borderColor: border-complementary
       title:
