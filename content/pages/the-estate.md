@@ -54,6 +54,7 @@ sections:
             textAlign: center
             borderWidth: 1
             borderColor: border-primary
+            borderStyle: double
       - type: FeaturedItem
         title: Smarter
         text: >-
