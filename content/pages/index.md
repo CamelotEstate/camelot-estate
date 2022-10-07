@@ -52,6 +52,7 @@ sections:
         url: /the-estate
         style: secondary
         showIcon: true
+        icon: arrowRight
     media:
       type: ImageBlock
       url: /images/corner house.jpg
