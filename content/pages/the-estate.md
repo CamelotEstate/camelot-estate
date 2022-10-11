@@ -17,7 +17,7 @@ sections:
       Located in the northern suburbs on the border of Kraaifontein and
       Durbanville, in Cape Town.
     backgroundImage:
-      url: /images/overview.jpg
+      url: /images/exterior_road.jpeg
       altText: Camelot Estate Front Entrance
       caption: Camelot Estate Front Entrance
       elementId: home_banner
