@@ -9,7 +9,7 @@ title: Camelot Estate News
 sections:
   - type: TextSection
     colors: colors-a
-    title: This in an empty page
+    title: Camelot Estate News
     subtitle: >-
       Start adding sections by clicking the + button on the page or though the
       sidebar.
