@@ -143,7 +143,7 @@ sections:
         showIcon: true
         iconPosition: right
     media:
-      url: /images/Exterior _ Braai area.jpg
+      url: /images/park7.jpg
       altText: Hero image
       type: ImageBlock
     styles:
