@@ -56,7 +56,7 @@ sections:
         iconPosition: right
     media:
       type: ImageBlock
-      url: /images/house_garden corner.jpeg
+      url: /images/corner house.jpg
       altText: Hero image
     styles:
       self:
