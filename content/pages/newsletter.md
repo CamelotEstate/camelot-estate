@@ -36,7 +36,7 @@ sections:
         textAlign: left
   - type: RecentPostsSection
     elementId: ''
-    showDate: false
+    showDate: true
     showAuthor: false
     showExcerpt: false
     variant: variant-a
