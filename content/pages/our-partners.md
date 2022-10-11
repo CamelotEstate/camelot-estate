@@ -184,7 +184,7 @@ sections:
         style: primary
         type: Button
     media:
-      url: /images/IMG_4555.jpeg
+      url: /images/landscape.jpg
       altText: Hero image
       type: ImageBlock
     styles:
