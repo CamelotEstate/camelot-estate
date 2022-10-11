@@ -143,7 +143,7 @@ sections:
         showIcon: true
         iconPosition: right
     media:
-      url: /images/camelot-estate-entrance.jpeg
+      url: /images/camelot-estate-entrance-side.jpeg
       altText: Hero image
       type: ImageBlock
     styles:
