@@ -184,7 +184,7 @@ sections:
         style: primary
         type: Button
     media:
-      url: /images/corner house.jpg
+      url: /images/IMG_4555.jpeg
       altText: Hero image
       type: ImageBlock
     styles:
