@@ -143,7 +143,7 @@ sections:
         showIcon: true
         iconPosition: right
     media:
-      url: /images/park7.jpg
+      url: /images/front sign.jpg
       altText: Hero image
       type: ImageBlock
     styles:
