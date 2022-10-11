@@ -244,7 +244,7 @@ sections:
         iconPosition: right
         type: Link
     media:
-      url: /images/park3.jpeg
+      url: /images/park4.jpeg
       altText: Hero section image
       type: ImageBlock
     styles:
