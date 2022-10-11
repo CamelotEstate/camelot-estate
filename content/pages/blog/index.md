@@ -1,6 +1,6 @@
 ---
 layout: PostFeedLayout
-title: Newsleter
+title: Newsletter
 numOfPostsPerPage: 10
 postFeed:
   showDate: true
