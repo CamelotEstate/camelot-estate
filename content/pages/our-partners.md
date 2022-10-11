@@ -143,7 +143,7 @@ sections:
         showIcon: true
         iconPosition: right
     media:
-      url: /images/camelot-estate-entrance-side.jpeg
+      url: /images/Exterior _ Braai area.jpg
       altText: Hero image
       type: ImageBlock
     styles:
