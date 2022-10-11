@@ -99,7 +99,7 @@ sections:
         style: primary
         elementId: ''
     media:
-      url: /images/house front.jpg
+      url: /images/inside-0d68aacd.jpg
       altText: Hero image
       type: ImageBlock
     styles:
