@@ -54,8 +54,8 @@ sections:
     colors: colors-a
     subtitle: ''
     text: >
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. 
+      Camelot Estate Home Owners Association has team up with a team of
+      professionals to ensure the up keeping of the estate.
 
 
       Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae
