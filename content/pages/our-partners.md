@@ -97,15 +97,22 @@ sections:
       developers.
 
 
-      **Service Include:**
+      *   Accounting & Financial Services
 
 
-      *   Accounting & financial services
-          Insurance
-          Repairs & maintenance
-          Administrative & secretarial
-          Annual Budget
-          Financial Reporting
+      *   Insurance
+
+
+      *   Repairs & Maintenance
+
+
+      *   Administrative & Secretarial
+
+
+      *   Annual Budget
+
+
+      *   Financial Reporting
 
     actions:
       - type: Button
