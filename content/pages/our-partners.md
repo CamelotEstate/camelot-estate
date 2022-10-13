@@ -100,9 +100,6 @@ sections:
       *   Accounting & Financial Services
 
 
-      *   Insurance
-
-
       *   Repairs & Maintenance
 
 
