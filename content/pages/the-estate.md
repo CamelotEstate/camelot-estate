@@ -186,8 +186,7 @@ sections:
         subtitle: ''
         text: >
           Camelot Estate features a wealth of water-wise plant life and
-          indigenous green spaces and meticulously planned landscaping
-          contributes to the estate’s charm.
+          meticulously planned landscaping contributes to the estate’s charm.
         featuredImage:
           url: /images/smarter.svg
           altText: Item image
