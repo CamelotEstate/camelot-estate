@@ -104,10 +104,7 @@ sections:
       *   Administrative & Secretarial
 
 
-      *   Annual Budget
-
-
-      *   Financial Reporting
+      *   Annual Budget & Financial Reporting
 
     actions:
       - type: Button
