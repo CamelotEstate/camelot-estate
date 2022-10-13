@@ -136,7 +136,9 @@ sections:
             borderWidth: 5
         type: FeaturedItem
       - title: Pet Friendly
-        text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
+        text: >
+          Camelot Estate is pet friendly for up to 2 pets and offers the 
+          setting to take your pets for their daily walk.
         featuredImage:
           url: /images/focused.svg
           altText: Item image
