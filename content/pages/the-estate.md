@@ -259,7 +259,21 @@ sections:
     backgroundSize: full
     title: Camelot Estate
     badge: null
-    text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n\nLorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\n\n**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n\n**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
+    text: >
+      Indigenous green spaces and meticulously planned landscaping contributes
+      to the estate’s charm; complementing the enchanting atmosphere of the
+      Camelot Estate.
+
+
+      Attractive greenery surrounding the estate will ensure an inviting and
+      pleasant streetscape beyond the development. The spacious private
+      recreational area in the estate offers wide open green spaces for safe and
+      relaxing pet friendly family time equipped with a play park. 
+
+
+      Management of the estate by a Home Owners Association will secure the
+      smooth running of the estate and maintain the aesthetics of the
+      development and property values.
     actions:
       - url: /
         showIcon: false
