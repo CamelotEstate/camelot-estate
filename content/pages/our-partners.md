@@ -225,7 +225,7 @@ sections:
       a play park. 
     actions: []
     media:
-      url: /images/IMG_4551.jpeg
+      url: /images/outside landscape.jpg
       altText: Hero image
       type: ImageBlock
     styles:
