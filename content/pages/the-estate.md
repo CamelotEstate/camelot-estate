@@ -93,8 +93,8 @@ sections:
     items:
       - title: 24/7 Security
         text: >
-          Estate security was a top priority in the design, layout and
-          management planning of the Camelot Estate.
+          Security was a top priority in the design, layout and management
+          planning of the Camelot Estate.
         featuredImage:
           url: /images/faster.svg
           altText: Item image
