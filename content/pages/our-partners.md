@@ -133,7 +133,18 @@ sections:
     title: Estate Security
     subtitle: ''
     badge: null
-    text: "![](/images/logo%20small%20temp-fa3638b2.jpg)\n\n**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n"
+    text: >
+      ![](/images/logo%20small%20temp-fa3638b2.jpg)
+
+      Estate security was a top priority in the design, layout and management
+      planning of the Camelot Estate. The development is equipped with high
+      walls, electric fencing and CCTV cameras all manned from the 24 hour
+      on-site security room. A 24/7 guard withvisitor access control and remote
+      access for residents ensures the highest consideration for the security of
+      the Camelot Estate home owners.
+
+
+      All of this is managed by NAME OF SECURITY COMPANY
     actions:
       - label: Visit Security Company
         url: /the-estate
