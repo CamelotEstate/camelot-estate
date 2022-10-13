@@ -92,7 +92,9 @@ sections:
       you’re looking for.
     items:
       - title: 24/7 Security
-        text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
+        text: >
+          Estate security was a top priority in the design, layout and
+          management planning of the Camelot Estate.
         featuredImage:
           url: /images/faster.svg
           altText: Item image
