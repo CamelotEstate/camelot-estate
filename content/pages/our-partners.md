@@ -202,7 +202,7 @@ sections:
         justifyContent: flex-start
   - type: HeroSection
     elementId: ''
-    colors: colors-h
+    colors: colors-a
     title: Estate Landscape
     subtitle: ''
     badge: null
