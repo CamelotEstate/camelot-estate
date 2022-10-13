@@ -49,35 +49,6 @@ sections:
       title:
         fontWeight: 400
         textAlign: left
-  - type: TextSection
-    elementId: ''
-    colors: colors-a
-    subtitle: ''
-    text: >+
-      Camelot Estate Home Owners Association has team up with a team of
-      professionals to enusre the up keeping of the estate.
-
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-6
-          - pb-3
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: left
   - type: HeroSection
     elementId: ''
     colors: colors-a
