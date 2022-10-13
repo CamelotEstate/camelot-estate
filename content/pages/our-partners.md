@@ -87,7 +87,26 @@ sections:
     title: Estate Management
     subtitle: ''
     badge: null
-    text: "![](/images/hjm%20logo-07017047.jpg)\n\n**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n"
+    text: >+
+      ![](/images/hjm%20logo-07017047.jpg)
+
+
+      HJM Management is responsible for all property management-related issues
+      within Camelot Estate. Their highly-qualified staff pride themselves in
+      their service-orientated approach towards all owners, trustees and
+      developers.
+
+
+      **Service Include:**
+
+
+      *   Accounting & financial services
+          Insurance
+          Repairs & maintenance
+          Administrative & secretarial
+          Annual Budget
+          Financial Reporting
+
     actions:
       - type: Button
         label: Visit HJM Management
