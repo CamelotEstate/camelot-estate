@@ -139,9 +139,12 @@ sections:
       Estate security was a top priority in the design, layout and management
       planning of the Camelot Estate. The development is equipped with high
       walls, electric fencing and CCTV cameras all manned from the 24 hour
-      on-site security room. A 24/7 guard withvisitor access control and remote
-      access for residents ensures the highest consideration for the security of
-      the Camelot Estate home owners.
+      on-site security room. 
+
+
+      A 24/7 guard withvisitor access control and remote access for residents
+      ensures the highest consideration for the security of the Camelot Estate
+      home owners.
 
 
       All of this is managed by NAME OF SECURITY COMPANY
