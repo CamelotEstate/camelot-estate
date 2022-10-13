@@ -55,8 +55,12 @@ sections:
       professionals to ensure the up keeping of the estate.
 
 
-      Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae
-      vitae dicta sunt explicabo.
+      This secure living estate is built in a contemporary style, and will
+      conform to the high standards of the Camelot Home Owners Association.
+
+
+      These rules and regulations are considered to be mutually advantageous to
+      all members.
     styles:
       self:
         height: auto
