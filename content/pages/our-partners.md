@@ -14,9 +14,6 @@ sections:
       # Our Partners
 
     name: null
-    title: >-
-      Camelot Estate Home Owners Association has team up with a team of
-      professionals to ensure the up keeping of the estate.
     backgroundImage:
       url: /images/roof overview-ca990b2a.jpg
       altText: Camelot Estate Front Entrance
