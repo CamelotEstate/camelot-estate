@@ -209,7 +209,20 @@ sections:
     title: Estate Landscape
     subtitle: ''
     badge: null
-    text: "![](/images/tgk%20logo-16994f0a.jpg)\n\n**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n"
+    text: >
+      ![](/images/tgk%20logo-16994f0a.jpg)
+
+
+      T.G.K is responsible for the landscaping in Camelot Estate.
+
+
+      Attractive greenery surrounding the estate will ensure an inviting and
+      pleasant streetscape beyond the development. The spacious private
+      recreational area in the estate offers wide open green spaces for safe and
+      relaxing pet friendly family time equipped with a play park. Management of
+      the estate by a Home Owners Association will secure the smooth running of
+      the estate and maintain the aesthetics of the development and property
+      values.
     actions: []
     media:
       url: /images/camelot-estate-entrance.jpeg
