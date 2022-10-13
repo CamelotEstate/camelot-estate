@@ -144,7 +144,7 @@ sections:
         justifyContent: flex-start
   - type: HeroSection
     elementId: ''
-    colors: colors-a
+    colors: colors-h
     title: Estate Security
     subtitle: ''
     badge: null
