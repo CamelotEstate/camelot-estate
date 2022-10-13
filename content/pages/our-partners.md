@@ -225,7 +225,7 @@ sections:
       a play park. 
     actions: []
     media:
-      url: /images/camelot-estate-entrance.jpeg
+      url: /images/front sign.jpg
       altText: Hero image
       type: ImageBlock
     styles:
