@@ -80,7 +80,7 @@ sections:
         textAlign: left
   - type: HeroSection
     elementId: ''
-    colors: colors-h
+    colors: colors-a
     title: Estate Management
     subtitle: ''
     badge: null
