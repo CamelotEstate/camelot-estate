@@ -92,9 +92,7 @@ sections:
 
 
       HJM Management is responsible for all property management-related issues
-      within Camelot Estate. Their highly-qualified staff pride themselves in
-      their service-orientated approach towards all owners, trustees and
-      developers.
+      within Camelot Estate.
 
 
       *   Accounting & Financial Services
