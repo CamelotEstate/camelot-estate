@@ -45,7 +45,13 @@ sections:
     colors: colors-a
     title: Camelot Estate
     subtitle: ''
-    text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\n\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n"
+    text: >+
+      **Camelot Estate** is superbly located on the Kraaifontein / Durbanville
+      border and a mere minutes walk away from schools and shopping centres.
+      This prime located land will offer 108 luxury 2, 3 and 4 bedroom single
+      storey and double storey free standing homes in a gated security estate
+
+
     actions:
       - type: Button
         label: Read More About Camelot Estate
