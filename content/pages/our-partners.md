@@ -225,7 +225,7 @@ sections:
       a play park. 
     actions: []
     media:
-      url: /images/front sign.jpg
+      url: /images/IMG_4551.jpeg
       altText: Hero image
       type: ImageBlock
     styles:
