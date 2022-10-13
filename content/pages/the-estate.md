@@ -114,7 +114,9 @@ sections:
             borderRadius: x-large
         type: FeaturedItem
       - title: High Speed Internet
-        text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
+        text: >
+          Camelot Estate features high-speed internet from Octotel to keep its
+          residents connected at all times.
         featuredImage:
           url: /images/smarter.svg
           altText: Item image
