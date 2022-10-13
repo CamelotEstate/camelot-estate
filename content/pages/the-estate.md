@@ -208,7 +208,9 @@ sections:
       - elementId: ''
         title: Easy Access
         subtitle: ''
-        text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
+        text: >
+          Schools in close proximity, convenience shopping, Cape Gate shopping
+          mall and the popular Cape Gate Lifestyle Centre. 
         featuredImage:
           url: /images/focused.svg
           altText: Item image
