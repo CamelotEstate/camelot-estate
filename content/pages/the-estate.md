@@ -160,7 +160,9 @@ sections:
       - elementId: ''
         title: Play Park
         subtitle: ''
-        text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
+        text: >
+          Camelot Estate offers a spacious play park area in the estate for
+          children to play and to relax with the family.
         featuredImage:
           url: /images/focused.svg
           altText: Item image
