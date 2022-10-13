@@ -184,7 +184,10 @@ sections:
       - elementId: ''
         title: Water Wise Landscape
         subtitle: ''
-        text: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry.\n"
+        text: >
+          Camelot Estate features a wealth of water-wise plant life and
+          indigenous green spaces and meticulously planned landscaping
+          contributes to the estate’s charm.
         featuredImage:
           url: /images/smarter.svg
           altText: Item image
