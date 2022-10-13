@@ -217,12 +217,12 @@ sections:
 
 
       Attractive greenery surrounding the estate will ensure an inviting and
-      pleasant streetscape beyond the development. The spacious private
-      recreational area in the estate offers wide open green spaces for safe and
-      relaxing pet friendly family time equipped with a play park. Management of
-      the estate by a Home Owners Association will secure the smooth running of
-      the estate and maintain the aesthetics of the development and property
-      values.
+      pleasant streetscape beyond the development.
+
+
+      The spacious private recreational area in the estate offers wide open
+      green spaces for safe and relaxing pet friendly family time equipped with
+      a play park. 
     actions: []
     media:
       url: /images/camelot-estate-entrance.jpeg
