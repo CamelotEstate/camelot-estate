@@ -5,7 +5,7 @@ metaDescription: >-
   Camelot Estate Home Owners Association has team up with a team of
   professionals to ensure the up keeping of the estate.
 addTitleSuffix: true
-socialImage: null
+socialImage: /images/roof overview.jpg
 metaTags: []
 title: Our Partners
 sections:
