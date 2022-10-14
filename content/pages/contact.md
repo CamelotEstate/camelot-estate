@@ -1,7 +1,7 @@
 ---
 layout: PageLayout
 metaTitle: Contact | Camelot Estate
-metaDescription: null
+metaDescription: 'Contact Camelot Estate for '
 addTitleSuffix: true
 socialImage: null
 metaTags: []
