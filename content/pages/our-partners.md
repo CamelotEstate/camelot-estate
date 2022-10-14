@@ -1,7 +1,7 @@
 ---
 layout: PageLayout
 metaTitle: Our Partners | Camelot Estate
-metaDescription: 'Camelot Estate, partners'
+metaDescription: Camelot Estate
 addTitleSuffix: true
 socialImage: null
 metaTags: []
