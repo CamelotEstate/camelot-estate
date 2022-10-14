@@ -71,7 +71,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    text: >
+    text: >+
       Camelot Estate is superbly located on the Kraaifontein / Durbanville
       border and a mere minutes walk away from schools and shopping centres.
       This prime located land will offer 108 luxury 2, 3 and 4 bedroom single
@@ -83,6 +83,7 @@ sections:
       single garage at the very least with a front porch, backyard patio, built
       in braai and solar hot water heating systems are standard features for all
       homes within the estate.
+
   - type: FeaturedItemsSection
     colors: colors-h
     elementId: ''
