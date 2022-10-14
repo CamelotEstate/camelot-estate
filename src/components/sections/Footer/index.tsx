@@ -19,12 +19,12 @@ export default function Footer(props) {
         >
             <div className={classNames('mx-auto', mapMaxWidthStyles(footerWidth))}>
                 {(props.logo || props.title || props.text) && (
-                    <div className="mb-12">
+                    <div className="mb-0">
                         <Link href="/" className="sb-footer-logo flex items-center" data-sb-field-path=".title#span[1] .logo#img[1]">
                             {props.logo && <ImageBlock {...props.logo} className={classNames('max-h-12', { 'mr-2': props.title })} />}
                             {props.title && <span className="text-2xl tracking-wide">{props.title}</span>}
                         </Link>
-                        {props.text && (
+                        {props.text && ( 
                             <Markdown options={{ forceBlock: true, forceWrapper: true }} className={classNames('sb-markdown', 'max-w-xl', { 'mt-8': props.title || props.logo })} data-sb-field-path=".text">
                                 {props.text}
                             </Markdown>
