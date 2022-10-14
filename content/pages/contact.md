@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: null
+metaTitle: 'Contact Camelot Estate '
 metaDescription: null
 addTitleSuffix: true
 socialImage: null
