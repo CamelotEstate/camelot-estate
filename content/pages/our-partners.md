@@ -1,7 +1,9 @@
 ---
 layout: PageLayout
 metaTitle: Our Partners | Camelot Estate
-metaDescription: 'Camelot Estate '
+metaDescription: >-
+  Camelot Estate Home Owners Association has team up with a team of
+  professionals to ensure the up keeping of the estate.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
