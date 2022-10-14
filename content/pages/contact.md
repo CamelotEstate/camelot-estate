@@ -3,7 +3,7 @@ layout: PageLayout
 metaTitle: Contact | Camelot Estate
 metaDescription: Contact Camelot Estate for information
 addTitleSuffix: true
-socialImage: null
+socialImage: /images/corner house-b3500b90.jpg
 metaTags: []
 title: Contact
 sections:
