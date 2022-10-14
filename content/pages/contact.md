@@ -34,6 +34,7 @@ sections:
     text: >
       For any questions, please contact managent agent HJM management on details
       below.
+    elementId: contact-info
   - type: FeatureHighlightSection
     elementId: contact-info
     colors: colors-a
