@@ -77,7 +77,7 @@ sections:
     elementId: description-textbox
   - type: FeaturedItemsSection
     colors: colors-h
-    elementId: feature_box
+    elementId: feature-box
     title: Camelot Amenities
     subtitle: >-
       These are all excellent features that will provide exactly the things
