@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Our Partners
+title: Our Partners | Camelot Estate
 sections:
   - type: QuoteSection
     elementId: home_banner_title
