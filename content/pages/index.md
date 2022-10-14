@@ -119,4 +119,5 @@ sections:
 metaTitle: Camelot Estate | Secure Estate Living in Kraaifontein
 metaDescription: Secure Estate Living in Kraaifontein
 addTitleSuffix: true
+socialImage: /images/camelot-estate-entrance.jpg
 ---
