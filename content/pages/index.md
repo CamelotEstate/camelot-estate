@@ -86,7 +86,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: TextSection
-    elementId: location
+    elementId: location-map
     colors: colors-a
     title: Location
     styles:
