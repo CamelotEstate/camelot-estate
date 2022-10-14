@@ -43,7 +43,7 @@ sections:
       Camelot Estate is your opportunity to own a home. Located in the northern
       suburb of Kraaifontein, in Cape Town
   - type: HeroSection
-    elementId: ''
+    elementId: description-
     colors: colors-a
     title: Camelot Estate
     subtitle: ''
