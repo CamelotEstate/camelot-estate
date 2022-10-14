@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: null
+metaTitle: Our Partners | Camelot Estate
 metaDescription: null
 addTitleSuffix: true
 socialImage: null
