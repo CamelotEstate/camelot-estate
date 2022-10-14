@@ -118,4 +118,5 @@ sections:
       loading="lazy" referrerpolicy="no-referrer-when-downgrade">\</iframe>
 metaTitle: Camelot Estate | Secure Estate Living in Kraaifontein
 metaDescription: Secure Estate Living in Kraaifontein
+addTitleSuffix: true
 ---
