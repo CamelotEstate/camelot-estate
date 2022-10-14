@@ -144,5 +144,6 @@
             }
         }
     },
-    "titleSuffix": "Camelot Estate, Secure Estate Living in Kraaifontein, Cape Town"
+    "titleSuffix": "Camelot Estate, Secure Estate Living in Kraaifontein, Cape Town",
+    "defaultSocialImage": "/images/camelot-estate-entrance.jpg"
 }
