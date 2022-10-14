@@ -149,7 +149,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: HeroSection
-    elementId: ''
+    elementId: description-textbox
     colors: colors-a
     title: Estate Security
     subtitle: ''
