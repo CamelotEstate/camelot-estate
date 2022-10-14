@@ -1,7 +1,9 @@
 ---
 layout: PageLayout
 metaTitle: The Estate | Camelot Estate
-metaDescription: null
+metaDescription: >-
+  Camelot Estate is superbly located on the Kraaifontein / Durbanville border
+  and a mere minutes walk away from schools and shopping centres.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
