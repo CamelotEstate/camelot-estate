@@ -49,7 +49,7 @@ sections:
         fontWeight: 400
         textAlign: left
   - type: TextSection
-    elementId: ''
+    elementId: description-textbox
     colors: colors-a
     subtitle: ''
     text: >
