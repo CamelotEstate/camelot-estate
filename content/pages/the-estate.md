@@ -10,7 +10,7 @@ metaTags: []
 title: The Estate
 sections:
   - type: QuoteSection
-    elementId: home_banner_title
+    elementId: banner_title
     colors: colors-c
     quote: |+
       # The Estate
