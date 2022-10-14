@@ -207,7 +207,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: HeroSection
-    elementId: ''
+    elementId: description-info
     colors: colors-h
     title: Estate Landscape
     subtitle: ''
