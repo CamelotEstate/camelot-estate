@@ -85,7 +85,7 @@ sections:
       text:
         textAlign: center
   - type: HeroSection
-    elementId: description-textbox
+    elementId: description-info
     colors: colors-h
     title: Estate Management
     subtitle: ''
