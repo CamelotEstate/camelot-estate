@@ -17,7 +17,7 @@ sections:
 
     name: null
     backgroundImage:
-      url: /images/roof overview-ca990b2a.jpg
+      url: /images/latest-overview.png
       altText: Camelot Estate Partners
       caption: Camelot Estate Partners
       elementId: home_banner
