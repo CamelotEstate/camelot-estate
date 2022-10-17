@@ -91,7 +91,7 @@ sections:
     subtitle: ''
     badge: null
     text: >+
-      ![](/images/hjm%20logo-203dd1dc.jpg)
+      ![](/images/hjm%20logo.jpg)
 
 
       HJM Management is responsible for all property management-related issues
