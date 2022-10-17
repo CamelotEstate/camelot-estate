@@ -59,7 +59,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/corner house.jpg
-      altText: Hero image
+      altText: 'About '
     styles:
       self:
         height: auto
