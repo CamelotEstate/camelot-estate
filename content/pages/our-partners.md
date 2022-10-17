@@ -19,7 +19,7 @@ sections:
     backgroundImage:
       url: /images/roof overview-ca990b2a.jpg
       altText: Camelot Estate Partners
-      caption: Camelot Estate Front Entrance
+      caption: Camelot Estate Partners
       elementId: home_banner
       styles:
         self:
