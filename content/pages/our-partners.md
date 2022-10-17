@@ -120,7 +120,7 @@ sections:
         style: primary
         elementId: ''
     media:
-      url: /images/inside-0d68aacd.jpg
+      url: /images/inside.jpg
       altText: Hero image
       type: ImageBlock
     styles:
