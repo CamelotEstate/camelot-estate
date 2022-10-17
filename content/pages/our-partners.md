@@ -213,7 +213,7 @@ sections:
     subtitle: ''
     badge: null
     text: >
-      ![](/images/tgk%20logo-16994f0a.jpg)
+      ![](/images/tgk%20logo.jpg)
 
 
       T.G.K is responsible for the landscaping in Camelot Estate.
@@ -225,7 +225,7 @@ sections:
 
       The spacious private recreational area in the estate offers wide open
       green spaces for safe and relaxing pet friendly family time equipped with
-      a play park. 
+      a play park.
     actions: []
     media:
       url: /images/outside landscape.jpg
