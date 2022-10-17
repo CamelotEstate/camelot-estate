@@ -17,9 +17,9 @@ sections:
 
     name: null
     backgroundImage:
-      url: /images/roof overview-ca990b2a.jpg
-      altText: Camelot Estate Front Entrance
-      caption: Camelot Estate Front Entrance
+      url: /images/latest-overview.png
+      altText: Camelot Estate Partners
+      caption: Camelot Estate Partners
       elementId: home_banner
       styles:
         self:
@@ -91,7 +91,7 @@ sections:
     subtitle: ''
     badge: null
     text: >+
-      ![](/images/hjm%20logo-07017047.jpg)
+      ![](/images/hjm%20logo-1419915c.jpg)
 
 
       HJM Management is responsible for all property management-related issues
@@ -120,7 +120,7 @@ sections:
         style: primary
         elementId: ''
     media:
-      url: /images/inside-0d68aacd.jpg
+      url: /images/inside.jpg
       altText: Hero image
       type: ImageBlock
     styles:
@@ -213,7 +213,7 @@ sections:
     subtitle: ''
     badge: null
     text: >
-      ![](/images/tgk%20logo-16994f0a.jpg)
+      ![](/images/tgk%20logo.jpg)
 
 
       T.G.K is responsible for the landscaping in Camelot Estate.
@@ -225,7 +225,7 @@ sections:
 
       The spacious private recreational area in the estate offers wide open
       green spaces for safe and relaxing pet friendly family time equipped with
-      a play park. 
+      a play park.
     actions: []
     media:
       url: /images/outside landscape.jpg
