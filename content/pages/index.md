@@ -58,8 +58,9 @@ sections:
         iconPosition: right
     media:
       type: ImageBlock
-      url: /images/corner house-b3500b90.jpg
-      altText: Hero image
+      url: /images/corner house.jpg
+      altText: 'About '
+      caption: 'About '
     styles:
       self:
         height: auto
