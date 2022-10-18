@@ -135,6 +135,7 @@ sections:
           url: /images/pet-friendly.png
           altText: Pet Friendly
           type: ImageBlock
+          caption: Pet Friendly
         actions: []
         styles:
           self:
