@@ -89,7 +89,7 @@ sections:
           planning of the Camelot Estate.
         featuredImage:
           url: /images/247-security.png
-          altText: Item image
+          altText: 24/7 Security
           type: ImageBlock
         actions: []
         styles:
