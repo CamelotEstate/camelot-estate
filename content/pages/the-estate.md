@@ -132,7 +132,7 @@ sections:
           Camelot Estate is pet friendly for up to two pets and offers the
           setting to take your pets for their daily walk.
         featuredImage:
-          url: /images/pet-friendly-4d960a1c.png
+          url: /images/pet-friendly-71f9812f.png
           altText: Pet Friendly
           type: ImageBlock
           caption: Pet Friendly
