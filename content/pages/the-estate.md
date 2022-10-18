@@ -133,7 +133,7 @@ sections:
           setting to take your pets for their daily walk.
         featuredImage:
           url: /images/pet-friendly.png
-          altText: Item image
+          altText: Pet Friendly
           type: ImageBlock
         actions: []
         styles:
