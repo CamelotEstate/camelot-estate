@@ -91,6 +91,7 @@ sections:
           url: /images/247-security.png
           altText: 24/7 Security
           type: ImageBlock
+          caption: 24/7 Security
         actions: []
         styles:
           self:
