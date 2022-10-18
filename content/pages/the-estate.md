@@ -88,7 +88,7 @@ sections:
           Security was a top priority in the design, layout and management
           planning of the Camelot Estate.
         featuredImage:
-          url: /images/247security-dac79c93.svg
+          url: /images/247security.svg
           altText: 24/7 Security
           type: ImageBlock
           caption: 24/7 Security
@@ -111,7 +111,7 @@ sections:
           Camelot Estate features high-speed internet from Octotel to keep its
           residents connected at all times.
         featuredImage:
-          url: /images/smarter.svg
+          url: /images/high-speed-internet.svg
           altText: Item image
           type: ImageBlock
         actions: []
@@ -133,7 +133,7 @@ sections:
           Camelot Estate is pet friendly for up to two pets and offers the
           setting to take your pets for their daily walk.
         featuredImage:
-          url: /images/pet-friendly-71f9812f.png
+          url: /images/pet-friendly.svg
           altText: Pet Friendly
           type: ImageBlock
           caption: Pet Friendly
@@ -158,7 +158,7 @@ sections:
           Camelot Estate offers a spacious play park area in the estate for
           children to play and to relax with the family.
         featuredImage:
-          url: /images/focused.svg
+          url: /images/playpark.svg
           altText: Item image
           type: ImageBlock
         actions: []
@@ -182,7 +182,7 @@ sections:
           Camelot Estate features a wealth of water-wise plant life and
           meticulously planned landscaping contributes to the estate’s charm.
         featuredImage:
-          url: /images/smarter.svg
+          url: /images/landscape.svg
           altText: Item image
           type: ImageBlock
         actions: []
@@ -204,9 +204,9 @@ sections:
         subtitle: ''
         text: >
           Schools in close proximity, convenience shopping, Cape Gate shopping
-          mall and the popular Cape Gate Lifestyle Centre. 
+          mall and the popular Cape Gate Lifestyle Centre.
         featuredImage:
-          url: /images/focused.svg
+          url: /images/access.svg
           altText: Item image
           type: ImageBlock
         actions: []
