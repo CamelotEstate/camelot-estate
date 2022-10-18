@@ -88,7 +88,7 @@ sections:
           Security was a top priority in the design, layout and management
           planning of the Camelot Estate.
         featuredImage:
-          url: /images/faster.svg
+          url: /images/247-security.png
           altText: Item image
           type: ImageBlock
         actions: []
