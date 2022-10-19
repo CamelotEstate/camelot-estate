@@ -38,7 +38,7 @@
             {
                 "type": "Link",
                 "label": "News",
-                "altText": "Camel",
+                "altText": "Camelot Estate News",
                 "url": "https://news.camelot-estate.co.za",
                 "showIcon": false,
                 "icon": "arrowRight",
