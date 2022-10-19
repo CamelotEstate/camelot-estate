@@ -111,24 +111,7 @@ sections:
         textAlign: center
       text:
         textAlign: center
-    text: >+
-      \<style>
-        .google-maps {
-          position: relative;
-          padding-bottom: 75%; // This is the aspect ratio
-          height: 0;
-          overflow: hidden;
-        }
-        .google-maps iframe {
-          position: absolute;
-          top: 0;
-          left: 0;
-          width: 100% **!important**;
-          height: 100% **!important**;
-        }\</style>
-
-
-
+    text: >
       <div class="google-maps">
 
 
@@ -139,7 +122,6 @@ sections:
 
 
       \</div>
-
 metaTitle: Camelot Estate | Secure Estate Living in Kraaifontein
 metaDescription: Secure Estate Living in Kraaifontein
 addTitleSuffix: true
