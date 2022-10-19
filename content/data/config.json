@@ -49,7 +49,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Contact ",
+                "label": "Contact",
                 "altText": "",
                 "url": "/contact",
                 "showIcon": false,
