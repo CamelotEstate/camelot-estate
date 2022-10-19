@@ -111,12 +111,46 @@ sections:
         textAlign: center
       text:
         textAlign: center
-    text: >
+    text: >+
+      ```
+
+      <style>
+        .google-maps {
+          position: relative;
+          padding-bottom: 75%; // This is the aspect ratio
+          height: 0;
+          overflow: hidden;
+        }
+        .google-maps iframe {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100% 
+      ```
+
+
+
+
+      <div class="google-maps">
+
+
 
       <iframe
       src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13255.585455778026!2d18.7166061!3d-33.8407832!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa0c66de00e4d978c!2sCamelot%20Estate.!5e0!3m2!1sen!2sza!4v1665067171801!5m2!1sen!2sza"
       width="1300" height="450" style="border:0;" allowfullscreen=""
       loading="lazy" referrerpolicy="no-referrer-when-downgrade">\</iframe>
+
+
+
+
+      ```
+
+      </div>
+
+      ```
+
+
+
 metaTitle: Camelot Estate | Secure Estate Living in Kraaifontein
 metaDescription: Secure Estate Living in Kraaifontein
 addTitleSuffix: true
