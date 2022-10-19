@@ -113,7 +113,7 @@
                 "type": "Link",
                 "label": "Contact Us",
                 "altText": "",
-                "url": "/contact-us",
+                "url": "/contact",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
