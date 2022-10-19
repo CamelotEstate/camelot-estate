@@ -46,19 +46,7 @@
                 "elementId": ""
             }
         ],
-        "secondaryLinks": [
-            {
-                "type": "Button",
-                "label": "Contact Us",
-                "altText": "Contact Us",
-                "url": "/contact",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": "contact-us-button"
-            }
-        ],
+        "secondaryLinks": [],
         "styles": {
             "self": {
                 "width": "narrow",
