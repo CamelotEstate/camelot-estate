@@ -155,12 +155,10 @@ sections:
     subtitle: ''
     badge: null
     text: >
-      ![](/images/logo%20small%20temp-fa3638b2.jpg)
-
       Estate security was a top priority in the design, layout and management
       planning of the Camelot Estate. The development is equipped with high
       walls, electric fencing and CCTV cameras all manned from the 24 hour
-      on-site security room. 
+      on-site security room.
 
 
       A 24/7 guard withvisitor access control and remote access for residents
@@ -168,7 +166,7 @@ sections:
       home owners.
 
 
-      All of this is managed by NAME OF SECURITY COMPANY
+      All of this is managed by SJC Security.
     actions:
       - label: Visit Security Company
         url: /the-estate
