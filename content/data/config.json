@@ -56,7 +56,7 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "primary",
-                "elementId": ""
+                "elementId": "contact-button"
             }
         ],
         "styles": {
