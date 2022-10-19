@@ -110,7 +110,7 @@ sections:
       subtitle:
         textAlign: center
       text:
-        textAlign: left
+        textAlign: center
     text: >+
       ```
 
