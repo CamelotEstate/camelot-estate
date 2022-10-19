@@ -38,7 +38,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "altText": "",
+                "altText": "Contact Camelot Estate",
                 "url": "/contact",
                 "showIcon": false,
                 "icon": "arrowRight",
