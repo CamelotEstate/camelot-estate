@@ -94,8 +94,8 @@ sections:
       ![](/images/hjm%20logo.jpg)
 
 
-      HJM Management is responsible for all property management-related issues
-      within Camelot Estate.
+      HJM Management Services is responsible for all property management-related
+      issues within Camelot Estate.
 
 
       *   Accounting & Financial Services
@@ -111,7 +111,7 @@ sections:
 
     actions:
       - type: Button
-        label: Visit HJM Management
+        label: Visit HJM Management Services
         altText: Visit HJM Management
         url: 'https://www.hjman.co.za/'
         showIcon: true
