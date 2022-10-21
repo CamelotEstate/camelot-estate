@@ -43,7 +43,7 @@
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "elementId": ""
+                "elementId": "nav_newsletter"
             }
         ],
         "secondaryLinks": [
