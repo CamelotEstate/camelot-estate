@@ -169,7 +169,7 @@ sections:
       All of this is managed by SJC Security.
     actions:
       - label: Visit Security  SJC Security
-        url: /the-estate
+        url: 'https://sjcsecurity.co.za'
         style: primary
         type: Button
         icon: arrowRight
