@@ -168,7 +168,7 @@ sections:
 
       All of this is managed by SJC Security.
     actions:
-      - label: Visit Security  SJC Security
+      - label: Visit  SJC Security
         url: 'https://sjcsecurity.co.za'
         style: primary
         type: Button
