@@ -79,9 +79,6 @@ sections:
     colors: colors-h
     elementId: feature-box
     title: Camelot Amenities
-    subtitle: >-
-      These are all excellent features that will provide exactly the things
-      you’re looking for.
     items:
       - title: 24/7 Security
         text: >
