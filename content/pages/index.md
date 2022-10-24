@@ -58,7 +58,7 @@ sections:
         iconPosition: right
     media:
       type: ImageBlock
-      url: /images/corner-house_c.JPG
+      url: /images/corner-house_b.jpg
       altText: 'About '
       caption: 'About '
     styles:
