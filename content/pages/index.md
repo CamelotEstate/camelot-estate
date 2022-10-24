@@ -58,7 +58,7 @@ sections:
         iconPosition: right
     media:
       type: ImageBlock
-      altText: 'About '
+      altText: About Camelot Estate
       caption: 'About '
       url: /images/corner-house_b.jpg
     styles:
