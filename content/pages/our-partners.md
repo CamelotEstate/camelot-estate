@@ -176,7 +176,7 @@ sections:
         showIcon: true
         iconPosition: right
     media:
-      url: /images/front sign.jpg
+      url: /images/camelot-entrance_e-60c8692d.jpg
       altText: Hero image
       type: ImageBlock
     styles:
