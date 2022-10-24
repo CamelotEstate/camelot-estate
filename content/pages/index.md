@@ -9,7 +9,7 @@ sections:
       # Secure Estate Living
 
     backgroundImage:
-      url: /images/camelot-entrance_g-f64447a8.jpg
+      url: /images/camelot-entrance_g-b522d55e.jpg
       altText: Camelot Estate Front Entrance
       styles:
         self:
