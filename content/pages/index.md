@@ -58,7 +58,7 @@ sections:
         iconPosition: right
     media:
       type: ImageBlock
-      url: /images/camelot-entrance_b.jpg
+      url: /images/corner-house_c.JPG
       altText: 'About '
       caption: 'About '
     styles:
