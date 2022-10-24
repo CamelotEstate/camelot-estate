@@ -60,7 +60,7 @@ sections:
       type: ImageBlock
       altText: About Camelot Estate
       caption: 'About Camelot Estate '
-      url: /images/corner-house_b.jpg
+      url: /images/corner-house-0136ae54.jpg
     styles:
       self:
         height: auto
