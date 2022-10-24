@@ -60,6 +60,7 @@ sections:
       type: ImageBlock
       altText: 'About '
       caption: 'About '
+      url: /images/corner-house_b.jpg
     styles:
       self:
         height: auto
