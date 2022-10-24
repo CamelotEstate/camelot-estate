@@ -176,7 +176,7 @@ sections:
         showIcon: true
         iconPosition: right
     media:
-      url: /images/front sign.jpg
+      url: /images/camelot-entrance_e-60c8692d.jpg
       altText: Hero image
       type: ImageBlock
     styles:
@@ -226,7 +226,7 @@ sections:
       a play park.
     actions: []
     media:
-      url: /images/outside landscape.jpg
+      url: /images/landscape-side_b.jpg
       altText: Hero image
       type: ImageBlock
     styles:
