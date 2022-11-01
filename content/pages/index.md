@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: QuoteSection
     elementId: home_banner_title
-    colors: colors-c
+    colors: colors-f
     quote: |+
       # Secure Estate Living
 
