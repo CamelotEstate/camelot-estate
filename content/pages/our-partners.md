@@ -169,7 +169,7 @@ sections:
       All of this is managed by Landry Security.
     actions:
       - label: Visit  SJC Security
-        url: 'https://sjcsecurity.co.za'
+        url: 'http://landrysecuritas.co.za/'
         style: primary
         type: Button
         icon: arrowRight
