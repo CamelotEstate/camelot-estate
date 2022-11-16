@@ -155,9 +155,6 @@ sections:
     subtitle: ''
     badge: null
     text: >
-      ![](/images/landry-logo-95e3e188.jpg)
-
-
       ![](/images/landry-logo-6b984c48.jpg)
 
 
