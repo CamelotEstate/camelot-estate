@@ -158,6 +158,9 @@ sections:
       ![](/images/landry-logo-95e3e188.jpg)
 
 
+      ![](/images/landry-logo-6b984c48.jpg)
+
+
       Estate security was a top priority in the design, layout and management
       planning of the Camelot Estate. The development is equipped with high
       walls, electric fencing and CCTV cameras all manned from the 24 hour
