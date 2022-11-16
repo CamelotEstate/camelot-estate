@@ -169,7 +169,7 @@ sections:
       home owners.
 
 
-      All of this is managed by Landry Security.
+      All of this is managed by Landry Securitas.
     actions:
       - label: Visit  SJC Security
         url: 'http://landrysecuritas.co.za/'
