@@ -214,13 +214,11 @@ sections:
     subtitle: ''
     badge: null
     text: >
-      ![](/images/tgk%20logo.jpg)
+      ![](/images/cape%20garden%20logo-eed89063.jpg)
 
 
-      ![](/images/cape%20garden%20logo-32e26a8b.jpg)
-
-
-      T.G.K is responsible for the landscaping in Camelot Estate.
+      Cape Graden Maintenance is responsible for the landscaping in Camelot
+      Estate.
 
 
       Attractive greenery surrounding the estate will ensure an inviting and
