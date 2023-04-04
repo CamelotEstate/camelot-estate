@@ -217,7 +217,7 @@ sections:
       ![](/images/cape%20garden%20logo-eed89063.jpg)
 
 
-      Cape Graden Maintenance is responsible for the landscaping in Camelot
+      Cape Garden Maintenance is responsible for the landscaping in Camelot
       Estate.
 
 
@@ -227,7 +227,7 @@ sections:
 
       The spacious private recreational area in the estate offers wide open
       green spaces for safe and relaxing pet friendly family time equipped with
-      a play park. 
+      a play park.
     actions: []
     media:
       url: /images/landscape-side_b.jpg
