@@ -227,7 +227,7 @@ sections:
 
       The spacious private recreational area in the estate offers wide open
       green spaces for safe and relaxing pet friendly family time equipped with
-      a play park.
+      a play park. 
     actions: []
     media:
       url: /images/landscape-side_b.jpg
