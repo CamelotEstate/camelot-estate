@@ -217,6 +217,9 @@ sections:
       ![](/images/tgk%20logo.jpg)
 
 
+      ![](/images/cape%20garden%20logo-32e26a8b.jpg)
+
+
       T.G.K is responsible for the landscaping in Camelot Estate.
 
 
